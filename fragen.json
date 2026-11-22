@@ -1,0 +1,2394 @@
+{
+  "version": 2,
+  "updated": "2026-11-22",
+  "questions": [
+    [
+      "KATZE",
+      "Haustier, das miaut"
+    ],
+    [
+      "HUND",
+      "Treuer Vierbeiner"
+    ],
+    [
+      "MAUS",
+      "Kleines Nagetier"
+    ],
+    [
+      "PFERD",
+      "Tier zum Reiten"
+    ],
+    [
+      "TIGER",
+      "Gestreifte Raubkatze"
+    ],
+    [
+      "ZEBRA",
+      "Gestreiftes Wildpferd"
+    ],
+    [
+      "FUCHS",
+      "Rotbraunes Waldtier"
+    ],
+    [
+      "ADLER",
+      "Großer Greifvogel"
+    ],
+    [
+      "ENTE",
+      "Wasservogel mit Schnabel"
+    ],
+    [
+      "GANS",
+      "Großer Wasservogel"
+    ],
+    [
+      "BIENE",
+      "Erzeugt Honig"
+    ],
+    [
+      "AMEISE",
+      "Kleines fleißiges Insekt"
+    ],
+    [
+      "IGEL",
+      "Tier mit Stacheln"
+    ],
+    [
+      "HASE",
+      "Tier mit langen Ohren"
+    ],
+    [
+      "WAL",
+      "Großes Meeressäugetier"
+    ],
+    [
+      "HAI",
+      "Raubfisch im Meer"
+    ],
+    [
+      "KRABBE",
+      "Krebstier mit Scheren"
+    ],
+    [
+      "FISCH",
+      "Tier mit Kiemen"
+    ],
+    [
+      "APFEL",
+      "Rundes Kernobst"
+    ],
+    [
+      "BIRNE",
+      "Obst mit schmalem Hals"
+    ],
+    [
+      "BANANE",
+      "Gelbe gebogene Frucht"
+    ],
+    [
+      "MELONE",
+      "Große saftige Frucht"
+    ],
+    [
+      "ZITRONE",
+      "Gelbe saure Frucht"
+    ],
+    [
+      "KIRSCHE",
+      "Kleine rote Steinfrucht"
+    ],
+    [
+      "TRAUBE",
+      "Frucht an einer Rebe"
+    ],
+    [
+      "ERDBEERE",
+      "Rote Sommerfrucht"
+    ],
+    [
+      "KAROTTE",
+      "Oranges Wurzelgemüse"
+    ],
+    [
+      "GURKE",
+      "Grünes längliches Gemüse"
+    ],
+    [
+      "TOMATE",
+      "Rote Salatfrucht"
+    ],
+    [
+      "ZWIEBEL",
+      "Gemüse, das Tränen auslöst"
+    ],
+    [
+      "KARTOFFEL",
+      "Knolle für Pommes"
+    ],
+    [
+      "SALAT",
+      "Grüne Blätter als Beilage"
+    ],
+    [
+      "NUDEL",
+      "Teigware wie Spaghetti"
+    ],
+    [
+      "REIS",
+      "Kleine weiße Körner als Beilage"
+    ],
+    [
+      "KAESE",
+      "Milchprodukt auf Pizza"
+    ],
+    [
+      "MILCH",
+      "Weißes Getränk von Kühen"
+    ],
+    [
+      "WASSER",
+      "Farbloses Getränk"
+    ],
+    [
+      "KAFFEE",
+      "Getränk aus gerösteten Bohnen"
+    ],
+    [
+      "TEE",
+      "Heißgetränk aus Blättern"
+    ],
+    [
+      "ZUCKER",
+      "Süße weiße Kristalle"
+    ],
+    [
+      "SALZ",
+      "Weißes Würzmittel"
+    ],
+    [
+      "PFEFFER",
+      "Scharfes Gewürz"
+    ],
+    [
+      "HONIG",
+      "Süßer Aufstrich von Bienen"
+    ],
+    [
+      "SUPPE",
+      "Flüssiges warmes Gericht"
+    ],
+    [
+      "PIZZA",
+      "Italienischer belegter Teig"
+    ],
+    [
+      "BURGER",
+      "Belegtes rundes Brötchen"
+    ],
+    [
+      "POMMES",
+      "Frittierte Kartoffelstäbchen"
+    ],
+    [
+      "KUCHEN",
+      "Süßes Gebäck in Stücken"
+    ],
+    [
+      "TORTE",
+      "Festliches Gebäck mit Creme"
+    ],
+    [
+      "EIS",
+      "Gefrorene Süßspeise"
+    ],
+    [
+      "HAUS",
+      "Gebäude zum Wohnen"
+    ],
+    [
+      "TISCH",
+      "Möbel mit Platte und Beinen"
+    ],
+    [
+      "STUHL",
+      "Möbel zum Sitzen"
+    ],
+    [
+      "SOFA",
+      "Gepolstertes Sitzmöbel"
+    ],
+    [
+      "BETT",
+      "Möbel zum Schlafen"
+    ],
+    [
+      "LAMPE",
+      "Spendet künstliches Licht"
+    ],
+    [
+      "FENSTER",
+      "Öffnung mit Glasscheibe"
+    ],
+    [
+      "TUER",
+      "Eingang zum Zimmer"
+    ],
+    [
+      "DACH",
+      "Oberer Abschluss eines Hauses"
+    ],
+    [
+      "GARTEN",
+      "Grüne Fläche am Haus"
+    ],
+    [
+      "BLUME",
+      "Pflanze mit Blüte"
+    ],
+    [
+      "BAUM",
+      "Große Pflanze mit Stamm"
+    ],
+    [
+      "WIESE",
+      "Grüne Fläche mit Gras"
+    ],
+    [
+      "WALD",
+      "Gebiet mit vielen Bäumen"
+    ],
+    [
+      "BERG",
+      "Hohe Erhebung"
+    ],
+    [
+      "FLUSS",
+      "Fließendes Gewässer"
+    ],
+    [
+      "SEE",
+      "Stehendes Binnengewässer"
+    ],
+    [
+      "MEER",
+      "Großes Salzwassergebiet"
+    ],
+    [
+      "INSEL",
+      "Land ringsum von Wasser"
+    ],
+    [
+      "STRAND",
+      "Sandiger Meeresrand"
+    ],
+    [
+      "SONNE",
+      "Stern unseres Sonnensystems"
+    ],
+    [
+      "MOND",
+      "Begleiter der Erde"
+    ],
+    [
+      "STERN",
+      "Leuchtender Himmelskörper"
+    ],
+    [
+      "WOLKE",
+      "Gebilde aus Wassertröpfchen"
+    ],
+    [
+      "REGEN",
+      "Wasser fällt aus Wolken"
+    ],
+    [
+      "SCHNEE",
+      "Weiße Flocken im Winter"
+    ],
+    [
+      "WIND",
+      "Bewegte Luft"
+    ],
+    [
+      "STURM",
+      "Sehr starker Wind"
+    ],
+    [
+      "NEBEL",
+      "Trübe Luft mit Tropfen"
+    ],
+    [
+      "SOMMER",
+      "Wärmste Jahreszeit"
+    ],
+    [
+      "WINTER",
+      "Kälteste Jahreszeit"
+    ],
+    [
+      "HERBST",
+      "Jahreszeit nach Sommer"
+    ],
+    [
+      "MORGEN",
+      "Beginn des Tages"
+    ],
+    [
+      "ABEND",
+      "Zeit vor der Nacht"
+    ],
+    [
+      "NACHT",
+      "Dunkle Tageszeit"
+    ],
+    [
+      "WOCHE",
+      "Sieben Tage"
+    ],
+    [
+      "MONAT",
+      "Teil eines Jahres"
+    ],
+    [
+      "JAHR",
+      "Zwölf Monate"
+    ],
+    [
+      "UHR",
+      "Zeigt die Zeit"
+    ],
+    [
+      "AUTO",
+      "Fahrzeug mit vier Rädern"
+    ],
+    [
+      "BUS",
+      "Großes Fahrzeug für Fahrgäste"
+    ],
+    [
+      "ZUG",
+      "Fährt auf Schienen"
+    ],
+    [
+      "BAHN",
+      "Schienengebundenes Verkehrsmittel"
+    ],
+    [
+      "FAHRRAD",
+      "Zweirad mit Pedalen"
+    ],
+    [
+      "ROLLER",
+      "Fahrzeug mit Trittbrett"
+    ],
+    [
+      "SCHIFF",
+      "Fahrzeug auf dem Wasser"
+    ],
+    [
+      "BOOT",
+      "Kleines Wasserfahrzeug"
+    ],
+    [
+      "FLUGZEUG",
+      "Fliegt mit Tragflächen"
+    ],
+    [
+      "RAKETE",
+      "Flugkörper für den Weltraum"
+    ],
+    [
+      "AMPEL",
+      "Regelt Straßenverkehr"
+    ],
+    [
+      "STRASSE",
+      "Verkehrsweg für Autos"
+    ],
+    [
+      "BRUECKE",
+      "Führt über ein Hindernis"
+    ],
+    [
+      "TUNNEL",
+      "Weg durch einen Berg"
+    ],
+    [
+      "SCHULE",
+      "Ort zum Lernen"
+    ],
+    [
+      "BUCH",
+      "Gedrucktes Werk zum Lesen"
+    ],
+    [
+      "HEFT",
+      "Zusammengeheftete Blätter"
+    ],
+    [
+      "STIFT",
+      "Gerät zum Schreiben"
+    ],
+    [
+      "PAPIER",
+      "Material zum Beschreiben"
+    ],
+    [
+      "BRILLE",
+      "Sehhilfe auf der Nase"
+    ],
+    [
+      "HAND",
+      "Körperteil mit fünf Fingern"
+    ],
+    [
+      "FUSS",
+      "Körperteil am Beinende"
+    ],
+    [
+      "KOPF",
+      "Oberster Körperteil"
+    ],
+    [
+      "AUGE",
+      "Organ zum Sehen"
+    ],
+    [
+      "OHR",
+      "Organ zum Hören"
+    ],
+    [
+      "NASE",
+      "Organ zum Riechen"
+    ],
+    [
+      "MUND",
+      "Zum Essen und Sprechen"
+    ],
+    [
+      "ZAHN",
+      "Zum Kauen im Mund"
+    ],
+    [
+      "HERZ",
+      "Pumpt Blut durch den Körper"
+    ],
+    [
+      "BAUCH",
+      "Körperregion unter der Brust"
+    ],
+    [
+      "FINGER",
+      "Einer von fünf an der Hand"
+    ],
+    [
+      "FREUND",
+      "Person, die man gernhat"
+    ],
+    [
+      "FAMILIE",
+      "Eltern und Kinder"
+    ],
+    [
+      "KIND",
+      "Junger Mensch"
+    ],
+    [
+      "MUTTER",
+      "Weiblicher Elternteil"
+    ],
+    [
+      "VATER",
+      "Männlicher Elternteil"
+    ],
+    [
+      "OMA",
+      "Großmutter"
+    ],
+    [
+      "OPA",
+      "Großvater"
+    ],
+    [
+      "MUSIK",
+      "Kunst aus Tönen"
+    ],
+    [
+      "LIED",
+      "Gesungenes Musikstück"
+    ],
+    [
+      "TANZ",
+      "Bewegung zur Musik"
+    ],
+    [
+      "RADIO",
+      "Empfängt Hörfunksendungen"
+    ],
+    [
+      "FILM",
+      "Bewegte Bilder mit Handlung"
+    ],
+    [
+      "KINO",
+      "Ort zum Filmeanschauen"
+    ],
+    [
+      "SPIEL",
+      "Unterhaltung mit Regeln"
+    ],
+    [
+      "BALL",
+      "Rundes Spielgerät"
+    ],
+    [
+      "TOR",
+      "Ziel beim Fußball"
+    ],
+    [
+      "SPORT",
+      "Körperlicher Wettkampf"
+    ],
+    [
+      "LAUFEN",
+      "Sich schnell zu Fuß bewegen"
+    ],
+    [
+      "LESEN",
+      "Geschriebenes verstehen"
+    ],
+    [
+      "MALEN",
+      "Bilder mit Farben gestalten"
+    ],
+    [
+      "SINGEN",
+      "Melodie mit Stimme vortragen"
+    ],
+    [
+      "LACHEN",
+      "Freude hörbar ausdrücken"
+    ],
+    [
+      "DENKEN",
+      "Mit dem Kopf überlegen"
+    ],
+    [
+      "TRAUM",
+      "Erlebnis im Schlaf"
+    ],
+    [
+      "GLUECK",
+      "Große Freude oder gutes Schicksal"
+    ],
+    [
+      "LIEBE",
+      "Starkes Gefühl der Zuneigung"
+    ],
+    [
+      "ROT",
+      "Farbe reifer Erdbeeren"
+    ],
+    [
+      "BLAU",
+      "Farbe des klaren Himmels"
+    ],
+    [
+      "GRUEN",
+      "Farbe von Gras"
+    ],
+    [
+      "GELB",
+      "Farbe einer Zitrone"
+    ],
+    [
+      "WEISS",
+      "Farbe von Schnee"
+    ],
+    [
+      "SCHWARZ",
+      "Dunkelste Farbe"
+    ],
+    [
+      "BRAUN",
+      "Farbe von Schokolade"
+    ],
+    [
+      "ROSA",
+      "Helle Mischung aus Rot und Weiß"
+    ],
+    [
+      "GOLD",
+      "Gelbes Edelmetall"
+    ],
+    [
+      "SILBER",
+      "Grauweißes Edelmetall"
+    ],
+    [
+      "ANANAS",
+      "Tropenfrucht mit stacheliger Schale"
+    ],
+    [
+      "MANGO",
+      "Süße tropische Steinfrucht"
+    ],
+    [
+      "PAPAYA",
+      "Orange Tropenfrucht"
+    ],
+    [
+      "KIWI",
+      "Braune Frucht mit grünem Inneren"
+    ],
+    [
+      "PFLAUME",
+      "Violette Steinfrucht"
+    ],
+    [
+      "PFIRSICH",
+      "Flaumige Steinfrucht"
+    ],
+    [
+      "APRIKOSE",
+      "Kleine orange Steinfrucht"
+    ],
+    [
+      "HIMBEERE",
+      "Rote Frucht aus vielen Teilfrüchten"
+    ],
+    [
+      "BROMBEERE",
+      "Dunkle Frucht an dornigen Ranken"
+    ],
+    [
+      "BROKKOLI",
+      "Grünes Gemüse mit Röschen"
+    ],
+    [
+      "SPINAT",
+      "Grünes Blattgemüse"
+    ],
+    [
+      "PAPRIKA",
+      "Gemüse in Rot Gelb oder Grün"
+    ],
+    [
+      "RETTICH",
+      "Scharfes Wurzelgemüse"
+    ],
+    [
+      "SELLERIE",
+      "Würziges Suppengemüse"
+    ],
+    [
+      "KUERBIS",
+      "Orangefarbenes Herbstgemüse"
+    ],
+    [
+      "LAUCH",
+      "Langes Zwiebelgemüse"
+    ],
+    [
+      "ERBSE",
+      "Kleine grüne Hülsenfrucht"
+    ],
+    [
+      "BOHNE",
+      "Hülsenfrucht mit länglichen Samen"
+    ],
+    [
+      "LINSEN",
+      "Kleine runde Hülsenfrüchte"
+    ],
+    [
+      "WEIZEN",
+      "Getreide für helles Brot"
+    ],
+    [
+      "ROGGEN",
+      "Getreide für dunkles Brot"
+    ],
+    [
+      "HAFER",
+      "Getreide für Frühstücksflocken"
+    ],
+    [
+      "GERSTE",
+      "Getreide für Malz"
+    ],
+    [
+      "DINKEL",
+      "Alte Weizenart"
+    ],
+    [
+      "BUTTER",
+      "Streichfett aus Milch"
+    ],
+    [
+      "SAHNE",
+      "Fettreicher Teil der Milch"
+    ],
+    [
+      "QUARK",
+      "Frisches Milchprodukt"
+    ],
+    [
+      "JOGHURT",
+      "Gesäuertes Milchprodukt"
+    ],
+    [
+      "KEKS",
+      "Kleines trockenes Gebäck"
+    ],
+    [
+      "WAFFEL",
+      "Gebäck mit Gittermuster"
+    ],
+    [
+      "BREZEL",
+      "Verschlungenes Laugengebäck"
+    ],
+    [
+      "BAGUETTE",
+      "Langes französisches Weißbrot"
+    ],
+    [
+      "TOAST",
+      "Geröstete Brotscheibe"
+    ],
+    [
+      "OMELETT",
+      "Eierspeise aus der Pfanne"
+    ],
+    [
+      "RUEHREI",
+      "Verquirlte Eier aus der Pfanne"
+    ],
+    [
+      "LASAGNE",
+      "Geschichtetes Nudelgericht"
+    ],
+    [
+      "RISOTTO",
+      "Cremiges italienisches Reisgericht"
+    ],
+    [
+      "GULASCH",
+      "Geschmortes Fleischgericht"
+    ],
+    [
+      "SCHNITZEL",
+      "Paniertes Fleischstück"
+    ],
+    [
+      "WURST",
+      "Fleischware in einer Hülle"
+    ],
+    [
+      "SENF",
+      "Gelbe würzige Paste"
+    ],
+    [
+      "KETCHUP",
+      "Rote Tomatensoße"
+    ],
+    [
+      "MAYO",
+      "Kurzform für Mayonnaise"
+    ],
+    [
+      "ESSIG",
+      "Saure Würzflüssigkeit"
+    ],
+    [
+      "MINZE",
+      "Kraut mit frischem Aroma"
+    ],
+    [
+      "BASILIKUM",
+      "Kraut für Pesto"
+    ],
+    [
+      "OREGANO",
+      "Kraut auf Pizza"
+    ],
+    [
+      "THYMIAN",
+      "Mediterranes Würzkraut"
+    ],
+    [
+      "ROSMARIN",
+      "Kraut mit nadelartigen Blättern"
+    ],
+    [
+      "SCHAF",
+      "Wolliges Nutztier"
+    ],
+    [
+      "ZIEGE",
+      "Nutztier mit Hörnern und Bart"
+    ],
+    [
+      "STIER",
+      "Männliches Rind"
+    ],
+    [
+      "KALB",
+      "Junges Rind"
+    ],
+    [
+      "FERKEL",
+      "Junges Schwein"
+    ],
+    [
+      "HUHN",
+      "Geflügel das Eier legt"
+    ],
+    [
+      "HAHN",
+      "Männliches Huhn"
+    ],
+    [
+      "KUEKEN",
+      "Junges Huhn"
+    ],
+    [
+      "TAUBE",
+      "Vogel der oft in Städten lebt"
+    ],
+    [
+      "SPATZ",
+      "Kleiner häufiger Singvogel"
+    ],
+    [
+      "AMSEL",
+      "Schwarzer Singvogel mit gelbem Schnabel"
+    ],
+    [
+      "MEISE",
+      "Kleiner bunter Gartenvogel"
+    ],
+    [
+      "STORCH",
+      "Langbeiniger Zugvogel"
+    ],
+    [
+      "KRANICH",
+      "Großer grauer Zugvogel"
+    ],
+    [
+      "PAPAGEI",
+      "Bunter Vogel der Laute nachahmt"
+    ],
+    [
+      "PINGUIN",
+      "Flugunfähiger Vogel im Frack"
+    ],
+    [
+      "DELFIN",
+      "Intelligentes Meeressäugetier"
+    ],
+    [
+      "ROBBE",
+      "Meeressäugetier mit Flossen"
+    ],
+    [
+      "OTTER",
+      "Verspieltes Säugetier am Wasser"
+    ],
+    [
+      "DACHS",
+      "Schwarzweiß gezeichnetes Waldtier"
+    ],
+    [
+      "HIRSCH",
+      "Waldtier mit Geweih"
+    ],
+    [
+      "REH",
+      "Kleines heimisches Wildtier"
+    ],
+    [
+      "ELCH",
+      "Großer Hirsch mit breitem Geweih"
+    ],
+    [
+      "WOLF",
+      "Wilder Verwandter des Hundes"
+    ],
+    [
+      "LUCHS",
+      "Wildkatze mit Pinselohren"
+    ],
+    [
+      "LOEWE",
+      "Raubkatze mit Mähne"
+    ],
+    [
+      "GEPARD",
+      "Sehr schnelle Raubkatze"
+    ],
+    [
+      "PANDA",
+      "Schwarzweißer Bambusfresser"
+    ],
+    [
+      "KOALA",
+      "Australisches Beuteltier im Baum"
+    ],
+    [
+      "KANGURU",
+      "Springendes australisches Beuteltier"
+    ],
+    [
+      "KAMEL",
+      "Wüstentier mit Höckern"
+    ],
+    [
+      "LAMA",
+      "Südamerikanisches Lasttier"
+    ],
+    [
+      "ALPAKA",
+      "Tier mit besonders weicher Wolle"
+    ],
+    [
+      "ELEFANT",
+      "Großes Tier mit Rüssel"
+    ],
+    [
+      "GIRAFFE",
+      "Tier mit sehr langem Hals"
+    ],
+    [
+      "NASHORN",
+      "Großes Tier mit Horn auf der Nase"
+    ],
+    [
+      "GORILLA",
+      "Großer Menschenaffe"
+    ],
+    [
+      "ZANGE",
+      "Werkzeug zum Greifen"
+    ],
+    [
+      "HAMMER",
+      "Werkzeug zum Einschlagen von Nägeln"
+    ],
+    [
+      "NAGEL",
+      "Metallstift zum Befestigen"
+    ],
+    [
+      "SCHRAUBE",
+      "Befestigung mit Gewinde"
+    ],
+    [
+      "BOHRER",
+      "Werkzeug für runde Löcher"
+    ],
+    [
+      "SAEGE",
+      "Werkzeug zum Zerteilen von Holz"
+    ],
+    [
+      "FEILE",
+      "Werkzeug zum Glätten von Metall"
+    ],
+    [
+      "PINSEL",
+      "Werkzeug zum Malen"
+    ],
+    [
+      "LINEAL",
+      "Gerät zum Messen von Längen"
+    ],
+    [
+      "RADIERER",
+      "Entfernt Bleistiftspuren"
+    ],
+    [
+      "SCHERE",
+      "Werkzeug zum Schneiden"
+    ],
+    [
+      "KLEBER",
+      "Verbindet Dinge durch Haften"
+    ],
+    [
+      "KARTON",
+      "Feste Pappe als Verpackung"
+    ],
+    [
+      "FLASCHE",
+      "Behälter mit engem Hals"
+    ],
+    [
+      "BECHER",
+      "Trinkgefäß ohne Henkel"
+    ],
+    [
+      "TASSE",
+      "Trinkgefäß mit Henkel"
+    ],
+    [
+      "TELLER",
+      "Flaches Geschirr für Essen"
+    ],
+    [
+      "GABEL",
+      "Besteck mit Zinken"
+    ],
+    [
+      "MESSER",
+      "Besteck zum Schneiden"
+    ],
+    [
+      "LOEFFEL",
+      "Besteck für Suppe"
+    ],
+    [
+      "TOPF",
+      "Kochgefäß mit hohem Rand"
+    ],
+    [
+      "PFANNE",
+      "Flaches Kochgefäß mit Griff"
+    ],
+    [
+      "HERD",
+      "Gerät zum Kochen"
+    ],
+    [
+      "OFEN",
+      "Gerät zum Backen"
+    ],
+    [
+      "SPUELE",
+      "Becken zum Geschirrspülen"
+    ],
+    [
+      "DUSCHE",
+      "Einrichtung zum Waschen"
+    ],
+    [
+      "WANNE",
+      "Großes Becken zum Baden"
+    ],
+    [
+      "SPIEGEL",
+      "Zeigt das eigene Abbild"
+    ],
+    [
+      "TEPPICH",
+      "Textiler Bodenbelag"
+    ],
+    [
+      "REGAL",
+      "Möbel mit Ablageböden"
+    ],
+    [
+      "SCHRANK",
+      "Möbel mit Türen zur Aufbewahrung"
+    ],
+    [
+      "KISSEN",
+      "Weiche Unterlage für den Kopf"
+    ],
+    [
+      "DECKE",
+      "Wärmt beim Schlafen"
+    ],
+    [
+      "VORHANG",
+      "Stoff vor dem Fenster"
+    ],
+    [
+      "BALKON",
+      "Außenfläche an einer Wohnung"
+    ],
+    [
+      "KELLER",
+      "Geschoss unter dem Erdgeschoss"
+    ],
+    [
+      "TREPPEN",
+      "Stufen zwischen Etagen"
+    ],
+    [
+      "AUFZUG",
+      "Fährt zwischen Stockwerken"
+    ],
+    [
+      "GARAGE",
+      "Raum zum Abstellen eines Autos"
+    ],
+    [
+      "KAMIN",
+      "Feuerstelle im Haus"
+    ],
+    [
+      "KERZE",
+      "Lichtquelle aus Wachs"
+    ],
+    [
+      "STROM",
+      "Elektrische Energie"
+    ],
+    [
+      "STECKER",
+      "Verbindet ein Gerät mit Strom"
+    ],
+    [
+      "KABEL",
+      "Leitung für Strom oder Daten"
+    ],
+    [
+      "AKKU",
+      "Wiederaufladbarer Energiespeicher"
+    ],
+    [
+      "BATTERIE",
+      "Speicher für elektrische Energie"
+    ],
+    [
+      "MOTOR",
+      "Wandelt Energie in Bewegung um"
+    ],
+    [
+      "REIFEN",
+      "Gummiteil am Fahrzeugrad"
+    ],
+    [
+      "LENKRAD",
+      "Damit steuert man ein Auto"
+    ],
+    [
+      "BREMSE",
+      "Verlangsamt ein Fahrzeug"
+    ],
+    [
+      "PEDAL",
+      "Mit dem Fuß betätigter Hebel"
+    ],
+    [
+      "SATTEL",
+      "Sitz auf einem Fahrrad"
+    ],
+    [
+      "HELM",
+      "Schutz für den Kopf"
+    ],
+    [
+      "GURT",
+      "Hält Insassen im Auto zurück"
+    ],
+    [
+      "TAXI",
+      "Auto mit Fahrer gegen Bezahlung"
+    ],
+    [
+      "TRAM",
+      "Kurzform für Straßenbahn"
+    ],
+    [
+      "METRO",
+      "Untergrundbahn in Großstädten"
+    ],
+    [
+      "BAHNHOF",
+      "Ort an dem Züge halten"
+    ],
+    [
+      "GLEIS",
+      "Schienenstrang am Bahnhof"
+    ],
+    [
+      "TICKET",
+      "Fahrschein oder Eintrittskarte"
+    ],
+    [
+      "KOFFER",
+      "Gepäckstück für Reisen"
+    ],
+    [
+      "RUCKSACK",
+      "Tasche zum Tragen auf dem Rücken"
+    ],
+    [
+      "KARTE",
+      "Zeigt Wege und Orte"
+    ],
+    [
+      "KOMPASS",
+      "Zeigt Himmelsrichtungen"
+    ],
+    [
+      "NORDEN",
+      "Himmelsrichtung gegenüber Süden"
+    ],
+    [
+      "SUEDEN",
+      "Himmelsrichtung gegenüber Norden"
+    ],
+    [
+      "OSTEN",
+      "Richtung des Sonnenaufgangs"
+    ],
+    [
+      "WESTEN",
+      "Richtung des Sonnenuntergangs"
+    ],
+    [
+      "EUROPA",
+      "Kontinent mit Deutschland"
+    ],
+    [
+      "ASIEN",
+      "Größter Kontinent"
+    ],
+    [
+      "AFRIKA",
+      "Kontinent südlich von Europa"
+    ],
+    [
+      "AMERIKA",
+      "Doppelkontinent westlich Europas"
+    ],
+    [
+      "ARKTIS",
+      "Polargebiet rund um den Nordpol"
+    ],
+    [
+      "SAHARA",
+      "Große Wüste in Afrika"
+    ],
+    [
+      "ALPEN",
+      "Hochgebirge in Europa"
+    ],
+    [
+      "RHEIN",
+      "Großer Fluss in Deutschland"
+    ],
+    [
+      "DONAU",
+      "Fluss durch Wien und Budapest"
+    ],
+    [
+      "ELBE",
+      "Fluss durch Dresden und Hamburg"
+    ],
+    [
+      "MOSEL",
+      "Nebenfluss des Rheins"
+    ],
+    [
+      "SPREE",
+      "Fluss durch Berlin"
+    ],
+    [
+      "BERLIN",
+      "Hauptstadt Deutschlands"
+    ],
+    [
+      "BONN",
+      "Frühere Bundeshauptstadt"
+    ],
+    [
+      "KOELN",
+      "Domstadt am Rhein"
+    ],
+    [
+      "AACHEN",
+      "Stadt mit berühmtem Kaiserdom"
+    ],
+    [
+      "DUEREN",
+      "Kreisstadt zwischen Aachen und Köln"
+    ],
+    [
+      "HAMBURG",
+      "Deutsche Stadt mit großem Hafen"
+    ],
+    [
+      "BREMEN",
+      "Hansestadt mit Stadtmusikanten"
+    ],
+    [
+      "DRESDEN",
+      "Stadt an der Elbe"
+    ],
+    [
+      "LEIPZIG",
+      "Sächsische Messestadt"
+    ],
+    [
+      "MUENCHEN",
+      "Bayerische Landeshauptstadt"
+    ],
+    [
+      "PARIS",
+      "Hauptstadt Frankreichs"
+    ],
+    [
+      "ROM",
+      "Hauptstadt Italiens"
+    ],
+    [
+      "MADRID",
+      "Hauptstadt Spaniens"
+    ],
+    [
+      "LONDON",
+      "Hauptstadt des Vereinigten Königreichs"
+    ],
+    [
+      "WIEN",
+      "Hauptstadt Österreichs"
+    ],
+    [
+      "PRAG",
+      "Hauptstadt Tschechiens"
+    ],
+    [
+      "BERN",
+      "Bundesstadt der Schweiz"
+    ],
+    [
+      "OSLO",
+      "Hauptstadt Norwegens"
+    ],
+    [
+      "HELSINKI",
+      "Hauptstadt Finnlands"
+    ],
+    [
+      "ATHEN",
+      "Hauptstadt Griechenlands"
+    ],
+    [
+      "DUBLIN",
+      "Hauptstadt Irlands"
+    ],
+    [
+      "BRUESSEL",
+      "Hauptstadt Belgiens"
+    ],
+    [
+      "JANUAR",
+      "Erster Monat des Jahres"
+    ],
+    [
+      "FEBRUAR",
+      "Zweiter Monat des Jahres"
+    ],
+    [
+      "MAERZ",
+      "Dritter Monat des Jahres"
+    ],
+    [
+      "APRIL",
+      "Vierter Monat des Jahres"
+    ],
+    [
+      "MAI",
+      "Fünfter Monat des Jahres"
+    ],
+    [
+      "JUNI",
+      "Sechster Monat des Jahres"
+    ],
+    [
+      "JULI",
+      "Siebter Monat des Jahres"
+    ],
+    [
+      "AUGUST",
+      "Achter Monat des Jahres"
+    ],
+    [
+      "OKTOBER",
+      "Zehnter Monat des Jahres"
+    ],
+    [
+      "NOVEMBER",
+      "Elfter Monat des Jahres"
+    ],
+    [
+      "DEZEMBER",
+      "Zwölfter Monat des Jahres"
+    ],
+    [
+      "MONTAG",
+      "Erster Wochentag"
+    ],
+    [
+      "DIENSTAG",
+      "Tag nach Montag"
+    ],
+    [
+      "MITTWOCH",
+      "Tag in der Mitte der Arbeitswoche"
+    ],
+    [
+      "FREITAG",
+      "Tag vor Samstag"
+    ],
+    [
+      "SAMSTAG",
+      "Tag vor Sonntag"
+    ],
+    [
+      "SONNTAG",
+      "Letzter Wochentag"
+    ],
+    [
+      "MINUTE",
+      "Sechzig Sekunden"
+    ],
+    [
+      "STUNDE",
+      "Sechzig Minuten"
+    ],
+    [
+      "SEKUNDE",
+      "Kleine Zeiteinheit"
+    ],
+    [
+      "GESTERN",
+      "Tag vor heute"
+    ],
+    [
+      "HEUTE",
+      "Aktueller Tag"
+    ],
+    [
+      "MITTAG",
+      "Zeit um zwölf Uhr"
+    ],
+    [
+      "FRUEH",
+      "Gegenteil von spät"
+    ],
+    [
+      "SPAET",
+      "Gegenteil von früh"
+    ],
+    [
+      "HEISS",
+      "Gegenteil von kalt"
+    ],
+    [
+      "KALT",
+      "Gegenteil von heiß"
+    ],
+    [
+      "WARM",
+      "Angenehm hohe Temperatur"
+    ],
+    [
+      "KUEHL",
+      "Etwas kalt"
+    ],
+    [
+      "TROCKEN",
+      "Nicht nass"
+    ],
+    [
+      "NASS",
+      "Mit Wasser bedeckt"
+    ],
+    [
+      "HELL",
+      "Gegenteil von dunkel"
+    ],
+    [
+      "DUNKEL",
+      "Ohne viel Licht"
+    ],
+    [
+      "GROSS",
+      "Gegenteil von klein"
+    ],
+    [
+      "KLEIN",
+      "Gegenteil von groß"
+    ],
+    [
+      "BREIT",
+      "Gegenteil von schmal"
+    ],
+    [
+      "SCHMAL",
+      "Gegenteil von breit"
+    ],
+    [
+      "LANG",
+      "Gegenteil von kurz"
+    ],
+    [
+      "KURZ",
+      "Gegenteil von lang"
+    ],
+    [
+      "SCHNELL",
+      "Gegenteil von langsam"
+    ],
+    [
+      "LANGSAM",
+      "Nicht schnell"
+    ],
+    [
+      "LEICHT",
+      "Gegenteil von schwer"
+    ],
+    [
+      "SCHWER",
+      "Gegenteil von leicht"
+    ],
+    [
+      "STARK",
+      "Gegenteil von schwach"
+    ],
+    [
+      "SCHWACH",
+      "Gegenteil von stark"
+    ],
+    [
+      "LAUT",
+      "Gegenteil von leise"
+    ],
+    [
+      "LEISE",
+      "Gegenteil von laut"
+    ],
+    [
+      "ALT",
+      "Gegenteil von jung"
+    ],
+    [
+      "JUNG",
+      "Gegenteil von alt"
+    ],
+    [
+      "SAUBER",
+      "Gegenteil von schmutzig"
+    ],
+    [
+      "KLUG",
+      "Anderes Wort für intelligent"
+    ],
+    [
+      "MUTIG",
+      "Gegenteil von feige"
+    ],
+    [
+      "FROH",
+      "Anderes Wort für glücklich"
+    ],
+    [
+      "TRAURIG",
+      "Gegenteil von fröhlich"
+    ],
+    [
+      "RUHIG",
+      "Gegenteil von hektisch"
+    ],
+    [
+      "FLEISSIG",
+      "Gegenteil von faul"
+    ],
+    [
+      "EHRLICH",
+      "Gegenteil von unehrlich"
+    ],
+    [
+      "GEDULD",
+      "Fähigkeit ruhig zu warten"
+    ],
+    [
+      "RESPEKT",
+      "Achtung vor anderen"
+    ],
+    [
+      "FRIEDEN",
+      "Zustand ohne Krieg"
+    ],
+    [
+      "HOFFNUNG",
+      "Zuversicht für die Zukunft"
+    ],
+    [
+      "FREIHEIT",
+      "Unabhängigkeit von Zwang"
+    ],
+    [
+      "WISSEN",
+      "Gesammelte Kenntnisse"
+    ],
+    [
+      "FRAGE",
+      "Satz der eine Antwort verlangt"
+    ],
+    [
+      "ANTWORT",
+      "Reaktion auf eine Frage"
+    ],
+    [
+      "RAETSEL",
+      "Aufgabe zum Knobeln"
+    ],
+    [
+      "LOESUNG",
+      "Richtige Antwort auf eine Aufgabe"
+    ],
+    [
+      "ZAHL",
+      "Mathematischer Wert"
+    ],
+    [
+      "SUMME",
+      "Ergebnis einer Addition"
+    ],
+    [
+      "PLUS",
+      "Zeichen für Addition"
+    ],
+    [
+      "MINUS",
+      "Zeichen für Subtraktion"
+    ],
+    [
+      "TEILEN",
+      "Mathematisch dividieren"
+    ],
+    [
+      "KREIS",
+      "Runde geometrische Form"
+    ],
+    [
+      "ECKE",
+      "Treffpunkt zweier Kanten"
+    ],
+    [
+      "QUADRAT",
+      "Viereck mit vier gleichen Seiten"
+    ],
+    [
+      "DREIECK",
+      "Form mit drei Seiten"
+    ],
+    [
+      "WINKEL",
+      "Öffnung zwischen zwei Linien"
+    ],
+    [
+      "LINIE",
+      "Gerader oder gekrümmter Strich"
+    ],
+    [
+      "PUNKT",
+      "Kleinstes Satzzeichen"
+    ],
+    [
+      "KOMMA",
+      "Satzzeichen für eine Pause"
+    ],
+    [
+      "VOKAL",
+      "Selbstlaut wie A oder E"
+    ],
+    [
+      "SILBE",
+      "Sprechbaustein eines Wortes"
+    ],
+    [
+      "SATZ",
+      "Wörter mit vollständigem Sinn"
+    ],
+    [
+      "REIM",
+      "Gleichklang am Wortende"
+    ],
+    [
+      "GEDICHT",
+      "Text oft mit Versen"
+    ],
+    [
+      "ROMAN",
+      "Längeres erzählendes Buch"
+    ],
+    [
+      "AUTOR",
+      "Verfasser eines Buches"
+    ],
+    [
+      "TITEL",
+      "Name eines Werkes"
+    ],
+    [
+      "SEITE",
+      "Ein Blatt im Buch"
+    ],
+    [
+      "KAPITEL",
+      "Abschnitt eines Buches"
+    ],
+    [
+      "LEHRER",
+      "Unterrichtet in der Schule"
+    ],
+    [
+      "SCHUELER",
+      "Lernt in der Schule"
+    ],
+    [
+      "KLASSE",
+      "Gruppe von Schülern"
+    ],
+    [
+      "PAUSE",
+      "Unterbrechung zum Ausruhen"
+    ],
+    [
+      "ZEUGNIS",
+      "Dokument mit Schulnoten"
+    ],
+    [
+      "RECHNEN",
+      "Mit Zahlen arbeiten"
+    ],
+    [
+      "SCHREIBEN",
+      "Wörter mit Zeichen festhalten"
+    ],
+    [
+      "ZEICHNEN",
+      "Bilder mit Linien gestalten"
+    ],
+    [
+      "FORSCHEN",
+      "Neues Wissen untersuchen"
+    ],
+    [
+      "LABOR",
+      "Raum für wissenschaftliche Versuche"
+    ],
+    [
+      "TELESKOP",
+      "Gerät zur Beobachtung ferner Sterne"
+    ],
+    [
+      "PLANET",
+      "Himmelskörper der einen Stern umkreist"
+    ],
+    [
+      "MERKUR",
+      "Sonnennächster Planet"
+    ],
+    [
+      "VENUS",
+      "Zweiter Planet von der Sonne"
+    ],
+    [
+      "ERDE",
+      "Unser Heimatplanet"
+    ],
+    [
+      "MARS",
+      "Roter Planet"
+    ],
+    [
+      "JUPITER",
+      "Größter Planet"
+    ],
+    [
+      "SATURN",
+      "Planet mit auffälligen Ringen"
+    ],
+    [
+      "URANUS",
+      "Siebter Planet von der Sonne"
+    ],
+    [
+      "NEPTUN",
+      "Achter Planet von der Sonne"
+    ],
+    [
+      "KOMET",
+      "Himmelskörper mit Schweif"
+    ],
+    [
+      "GALAXIE",
+      "System aus Milliarden Sternen"
+    ],
+    [
+      "KOSMOS",
+      "Anderes Wort für Weltall"
+    ],
+    [
+      "ASTRONAUT",
+      "Mensch auf einer Weltraummission"
+    ],
+    [
+      "SATELLIT",
+      "Objekt in einer Umlaufbahn"
+    ],
+    [
+      "ATOM",
+      "Kleinster Baustein eines Elements"
+    ],
+    [
+      "EISEN",
+      "Metall für Stahl"
+    ],
+    [
+      "KUPFER",
+      "Rötliches leitfähiges Metall"
+    ],
+    [
+      "ZINN",
+      "Weiches silberweißes Metall"
+    ],
+    [
+      "BLEI",
+      "Schweres graues Metall"
+    ],
+    [
+      "PLATIN",
+      "Wertvolles silberweißes Metall"
+    ],
+    [
+      "DIAMANT",
+      "Sehr harter Edelstein"
+    ],
+    [
+      "RUBIN",
+      "Roter Edelstein"
+    ],
+    [
+      "SMARAGD",
+      "Grüner Edelstein"
+    ],
+    [
+      "SAPHIR",
+      "Oft blauer Edelstein"
+    ],
+    [
+      "PERLE",
+      "Schmuckstück aus einer Muschel"
+    ],
+    [
+      "MAGNET",
+      "Zieht Eisen an"
+    ],
+    [
+      "LICHT",
+      "Macht Dinge sichtbar"
+    ],
+    [
+      "SCHATTEN",
+      "Dunkler Bereich hinter einem Hindernis"
+    ],
+    [
+      "FARBE",
+      "Eigenschaft von Rot oder Blau"
+    ],
+    [
+      "KLANG",
+      "Hörbarer Ton"
+    ],
+    [
+      "TON",
+      "Einzelnes hörbares Schallsignal"
+    ],
+    [
+      "ECHO",
+      "Zurückgeworfener Schall"
+    ],
+    [
+      "MELODIE",
+      "Folge musikalischer Töne"
+    ],
+    [
+      "RHYTHMUS",
+      "Regelmäßiges Muster von Schlägen"
+    ],
+    [
+      "TAKT",
+      "Zeitliche Gliederung der Musik"
+    ],
+    [
+      "GITARRE",
+      "Saiteninstrument mit sechs Saiten"
+    ],
+    [
+      "KLAVIER",
+      "Tasteninstrument mit Saiten"
+    ],
+    [
+      "GEIGE",
+      "Streichinstrument mit vier Saiten"
+    ],
+    [
+      "TROMMEL",
+      "Schlaginstrument mit Fell"
+    ],
+    [
+      "FLOETE",
+      "Blasinstrument mit Löchern"
+    ],
+    [
+      "TROMPETE",
+      "Blechblasinstrument mit Ventilen"
+    ],
+    [
+      "SAXOFON",
+      "Blasinstrument aus Metall mit Rohrblatt"
+    ],
+    [
+      "HARFE",
+      "Großes Saiteninstrument"
+    ],
+    [
+      "ORGEL",
+      "Tasteninstrument oft in Kirchen"
+    ],
+    [
+      "CHOR",
+      "Gruppe singender Menschen"
+    ],
+    [
+      "DIRIGENT",
+      "Leitet ein Orchester"
+    ],
+    [
+      "KONZERT",
+      "Musikalische Liveaufführung"
+    ],
+    [
+      "BUEHNE",
+      "Erhöhte Fläche für Auftritte"
+    ],
+    [
+      "MIKROFON",
+      "Wandelt Schall in elektrische Signale"
+    ],
+    [
+      "SENDER",
+      "Station die Programme ausstrahlt"
+    ],
+    [
+      "EMPFANG",
+      "Aufnahme eines Funksignals"
+    ],
+    [
+      "ANTENNE",
+      "Bauteil zum Senden oder Empfangen"
+    ],
+    [
+      "FREQUENZ",
+      "Anzahl von Schwingungen pro Sekunde"
+    ],
+    [
+      "STREAM",
+      "Übertragung im Internet"
+    ],
+    [
+      "PODCAST",
+      "Abrufbare Audiofolge"
+    ],
+    [
+      "MODERATOR",
+      "Führt durch eine Sendung"
+    ],
+    [
+      "NACHRICHT",
+      "Mitteilung über ein Ereignis"
+    ],
+    [
+      "WETTER",
+      "Zustand der Atmosphäre"
+    ],
+    [
+      "PROGNOSE",
+      "Vorhersage einer Entwicklung"
+    ],
+    [
+      "BAROMETER",
+      "Misst den Luftdruck"
+    ],
+    [
+      "BLITZ",
+      "Elektrische Entladung bei Gewitter"
+    ],
+    [
+      "DONNER",
+      "Geräusch nach einem Blitz"
+    ],
+    [
+      "GEWITTER",
+      "Wetter mit Blitz und Donner"
+    ],
+    [
+      "HAGEL",
+      "Eiskörner aus Gewitterwolken"
+    ],
+    [
+      "FROST",
+      "Temperaturen unter dem Gefrierpunkt"
+    ],
+    [
+      "TAU",
+      "Wassertropfen am frühen Morgen"
+    ],
+    [
+      "BRISE",
+      "Leichter Wind"
+    ],
+    [
+      "BOEE",
+      "Plötzlicher Windstoß"
+    ],
+    [
+      "ORKAN",
+      "Extrem starker Sturm"
+    ],
+    [
+      "FLUT",
+      "Steigender Wasserstand an der Küste"
+    ],
+    [
+      "EBBE",
+      "Sinkender Wasserstand an der Küste"
+    ],
+    [
+      "GEZEITEN",
+      "Regelmäßiger Wechsel von Ebbe und Flut"
+    ],
+    [
+      "WELLE",
+      "Bewegung an der Wasseroberfläche"
+    ],
+    [
+      "BRANDUNG",
+      "Brechende Wellen an der Küste"
+    ],
+    [
+      "BUCHT",
+      "Einbuchtung einer Küste"
+    ],
+    [
+      "HALBINSEL",
+      "Land mit Wasser auf drei Seiten"
+    ],
+    [
+      "KAP",
+      "Vorsprung einer Küste ins Meer"
+    ],
+    [
+      "DELTA",
+      "Verzweigte Flussmündung"
+    ],
+    [
+      "QUELLE",
+      "Ort an dem Wasser aus dem Boden tritt"
+    ],
+    [
+      "BACH",
+      "Kleines fließendes Gewässer"
+    ],
+    [
+      "GIPFEL",
+      "Höchster Punkt eines Berges"
+    ],
+    [
+      "TAL",
+      "Tiefe Landschaft zwischen Bergen"
+    ],
+    [
+      "HUEGEL",
+      "Kleine Erhebung der Landschaft"
+    ],
+    [
+      "KLIPPE",
+      "Steiler Felsabhang an der Küste"
+    ],
+    [
+      "FELSEN",
+      "Großer fester Stein"
+    ],
+    [
+      "HOEHLE",
+      "Natürlicher Hohlraum im Gestein"
+    ],
+    [
+      "VULKAN",
+      "Berg aus dem Lava austreten kann"
+    ],
+    [
+      "LAVA",
+      "Geschmolzenes Gestein an der Oberfläche"
+    ],
+    [
+      "MAGMA",
+      "Geschmolzenes Gestein im Erdinneren"
+    ],
+    [
+      "ERDBEBEN",
+      "Erschütterung der Erdkruste"
+    ],
+    [
+      "TSUNAMI",
+      "Große Meereswelle nach Seebeben"
+    ],
+    [
+      "WUESTE",
+      "Sehr trockenes Gebiet"
+    ],
+    [
+      "OASE",
+      "Wasserstelle in der Wüste"
+    ],
+    [
+      "DUENE",
+      "Vom Wind geformter Sandhügel"
+    ],
+    [
+      "STEPPE",
+      "Weite trockene Graslandschaft"
+    ],
+    [
+      "SAVANNE",
+      "Tropische Graslandschaft"
+    ],
+    [
+      "DSCHUNGEL",
+      "Dichter tropischer Wald"
+    ],
+    [
+      "TUNDRA",
+      "Baumlose Landschaft in Polargebieten"
+    ],
+    [
+      "GLETSCHER",
+      "Langsam fließende Eismasse"
+    ],
+    [
+      "EISBERG",
+      "Großer im Meer treibender Eisblock"
+    ],
+    [
+      "NATUR",
+      "Gesamtheit der belebten und unbelebten Umwelt"
+    ],
+    [
+      "UMWELT",
+      "Natürliche Lebensbedingungen"
+    ],
+    [
+      "KLIMA",
+      "Typisches Wetter über lange Zeit"
+    ],
+    [
+      "ENERGIE",
+      "Fähigkeit Arbeit zu verrichten"
+    ],
+    [
+      "SOLAR",
+      "Die Sonne betreffend"
+    ],
+    [
+      "WINDRAD",
+      "Anlage zur Stromgewinnung aus Wind"
+    ],
+    [
+      "RECYCLING",
+      "Wiederverwertung von Abfällen"
+    ],
+    [
+      "MUELL",
+      "Abfall aus Haushalt oder Betrieb"
+    ],
+    [
+      "KOMPOST",
+      "Verrottete organische Abfälle"
+    ],
+    [
+      "PFAND",
+      "Geldbetrag für zurückgebbare Verpackungen"
+    ],
+    [
+      "GLAS",
+      "Durchsichtiger harter Werkstoff"
+    ],
+    [
+      "PLASTIK",
+      "Alltagswort für Kunststoff"
+    ],
+    [
+      "HOLZ",
+      "Material aus Baumstämmen"
+    ],
+    [
+      "STEIN",
+      "Festes natürliches Gesteinsstück"
+    ],
+    [
+      "LEHM",
+      "Mischung aus Ton Schluff und Sand"
+    ],
+    [
+      "SAND",
+      "Feine Körner am Strand"
+    ],
+    [
+      "KIES",
+      "Kleine abgerundete Steine"
+    ],
+    [
+      "BETON",
+      "Baustoff aus Zement Wasser und Gestein"
+    ],
+    [
+      "ZEMENT",
+      "Bindemittel für Beton"
+    ],
+    [
+      "ZIEGEL",
+      "Gebrannter Baustein"
+    ],
+    [
+      "MAUER",
+      "Aus Steinen errichtete Wand"
+    ],
+    [
+      "ZAUN",
+      "Abgrenzung eines Grundstücks"
+    ],
+    [
+      "SCHLOSS",
+      "Verschluss an einer Tür"
+    ],
+    [
+      "KLINGEL",
+      "Signalgerät an der Haustür"
+    ],
+    [
+      "PAKET",
+      "Versendete verpackte Ware"
+    ],
+    [
+      "BRIEF",
+      "Schriftliche Nachricht im Umschlag"
+    ],
+    [
+      "MARKE",
+      "Wertzeichen für einen Brief"
+    ],
+    [
+      "POST",
+      "Dienst zum Versenden von Sendungen"
+    ],
+    [
+      "ADRESSE",
+      "Angabe des Wohnorts"
+    ],
+    [
+      "STADT",
+      "Größere Siedlung"
+    ],
+    [
+      "DORF",
+      "Kleine ländliche Siedlung"
+    ],
+    [
+      "GEMEINDE",
+      "Kommunale Verwaltungseinheit"
+    ],
+    [
+      "RATHAUS",
+      "Sitz der Stadtverwaltung"
+    ],
+    [
+      "MUSEUM",
+      "Ort zum Ausstellen von Sammlungen"
+    ],
+    [
+      "THEATER",
+      "Ort für Bühnenstücke"
+    ],
+    [
+      "STADION",
+      "Große Sportstätte mit Tribünen"
+    ],
+    [
+      "PARK",
+      "Öffentliche Grünanlage"
+    ],
+    [
+      "APOTHEKE",
+      "Geschäft für Arzneimittel"
+    ],
+    [
+      "ARZT",
+      "Behandelt kranke Menschen"
+    ],
+    [
+      "PFLEGER",
+      "Betreut Menschen mit Pflegebedarf"
+    ],
+    [
+      "POLIZEI",
+      "Behörde für öffentliche Sicherheit"
+    ],
+    [
+      "FEUERWEHR",
+      "Hilft bei Bränden und Notfällen"
+    ],
+    [
+      "RETTUNG",
+      "Hilfe in einer Notlage"
+    ],
+    [
+      "NOTRUF",
+      "Telefonische Meldung eines Notfalls"
+    ],
+    [
+      "SIRENE",
+      "Lautes Warnsignal"
+    ],
+    [
+      "ALARM",
+      "Signal bei Gefahr"
+    ],
+    [
+      "GEFAHR",
+      "Möglichkeit eines Schadens"
+    ],
+    [
+      "HILFE",
+      "Unterstützung in einer Notlage"
+    ],
+    [
+      "DANKE",
+      "Wort der Dankbarkeit"
+    ],
+    [
+      "BITTE",
+      "Höfliches Wort bei einer Anfrage"
+    ],
+    [
+      "HALLO",
+      "Freundliche Begrüßung"
+    ],
+    [
+      "TSCHUESS",
+      "Informeller Abschiedsgruß"
+    ]
+  ]
+}
