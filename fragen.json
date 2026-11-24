@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-11-22",
+  "version": 3,
+  "updated": "2026-11-24",
   "questions": [
     [
       "KATZE",
@@ -2389,6 +2389,2470 @@
     [
       "TSCHUESS",
       "Informeller Abschiedsgruß"
+    ],
+    [
+      "ABAKUS",
+      "Antikes Rechenbrett"
+    ],
+    [
+      "ABTEI",
+      "Kloster unter Leitung eines Abtes"
+    ],
+    [
+      "ACHAT",
+      "Gebänderter Schmuckstein"
+    ],
+    [
+      "ACHSEL",
+      "Vertiefung unter dem Oberarm"
+    ],
+    [
+      "ADAGIO",
+      "Langsames musikalisches Tempo"
+    ],
+    [
+      "ADVENT",
+      "Kirchliche Zeit vor Weihnachten"
+    ],
+    [
+      "AFFEKT",
+      "Heftige kurzfristige Gefühlsregung"
+    ],
+    [
+      "AGAVE",
+      "Pflanzengattung zur Tequilaproduktion"
+    ],
+    [
+      "AHORN",
+      "Baum mit geflügelten Früchten"
+    ],
+    [
+      "AKAZIE",
+      "Baumgattung mit oft dornigen Zweigen"
+    ],
+    [
+      "AKKORD",
+      "Zusammenklang mehrerer Töne"
+    ],
+    [
+      "AKROBAT",
+      "Artist mit Körperkunst"
+    ],
+    [
+      "ALBATROS",
+      "Großer Seevogel mit langen Flügeln"
+    ],
+    [
+      "ALBINO",
+      "Lebewesen mit angeborenem Pigmentmangel"
+    ],
+    [
+      "ALIBI",
+      "Nachweis der Abwesenheit vom Tatort"
+    ],
+    [
+      "ALKALI",
+      "Wasserlösliche Base"
+    ],
+    [
+      "ALMANACH",
+      "Jährlich erscheinendes Nachschlagewerk"
+    ],
+    [
+      "ALMOSEN",
+      "Mildtätige Gabe"
+    ],
+    [
+      "ALTAR",
+      "Tisch für religiöse Zeremonien"
+    ],
+    [
+      "AMETHYST",
+      "Violette Quarzvarietät"
+    ],
+    [
+      "AMMONIAK",
+      "Stechend riechende Stickstoffverbindung"
+    ],
+    [
+      "AMPHORE",
+      "Antikes Gefäß mit zwei Henkeln"
+    ],
+    [
+      "ANAGRAMM",
+      "Wort aus umgestellten Buchstaben"
+    ],
+    [
+      "ANEMONE",
+      "Windröschen"
+    ],
+    [
+      "ANGORA",
+      "Wolle bestimmter Kaninchen"
+    ],
+    [
+      "ANIS",
+      "Gewürz mit Lakritzaroma"
+    ],
+    [
+      "ANODE",
+      "Elektrode der Oxidation"
+    ],
+    [
+      "ANTILOPE",
+      "Schnelles afrikanisches Horntier"
+    ],
+    [
+      "APATHIE",
+      "Teilnahmslosigkeit"
+    ],
+    [
+      "APHEL",
+      "Sonnenfernster Bahnpunkt"
+    ],
+    [
+      "ARABESKE",
+      "Rankenartiges Ornament"
+    ],
+    [
+      "ARCHIV",
+      "Sammlung aufbewahrter Dokumente"
+    ],
+    [
+      "ARENA",
+      "Wettkampfstätte"
+    ],
+    [
+      "ARGON",
+      "Edelgas mit Ordnungszahl 18"
+    ],
+    [
+      "ARKADE",
+      "Bogenreihe auf Säulen"
+    ],
+    [
+      "ARMADA",
+      "Großer Flottenverband"
+    ],
+    [
+      "ARSEN",
+      "Halbmetall mit Symbol As"
+    ],
+    [
+      "ARTERIE",
+      "Blutgefäß vom Herzen weg"
+    ],
+    [
+      "ASKET",
+      "Mensch mit bewusst enthaltsamer Lebensweise"
+    ],
+    [
+      "ASTAT",
+      "Halogen mit Ordnungszahl 85"
+    ],
+    [
+      "ATLAS",
+      "Erster Halswirbel"
+    ],
+    [
+      "ATOLL",
+      "Ringförmiges Korallenriff"
+    ],
+    [
+      "AUBERGINE",
+      "Violettes Nachtschattengewächs"
+    ],
+    [
+      "AUDIENZ",
+      "Förmlicher Empfang bei einer hohen Person"
+    ],
+    [
+      "AUKTION",
+      "Versteigerung"
+    ],
+    [
+      "AUSTER",
+      "Essbare Meeresmuschel"
+    ],
+    [
+      "AXIOM",
+      "Unbewiesener Grundsatz eines formalen Systems"
+    ],
+    [
+      "AZALEE",
+      "Blühender Zierstrauch der Rhododendren"
+    ],
+    [
+      "BAIKAL",
+      "Tiefster See der Erde"
+    ],
+    [
+      "BAJONETT",
+      "Aufpflanzbare Stichwaffe"
+    ],
+    [
+      "BALANCE",
+      "Gleichgewicht"
+    ],
+    [
+      "BALLADE",
+      "Erzählendes Gedicht"
+    ],
+    [
+      "BALSAM",
+      "Wohltuendes aromatisches Mittel"
+    ],
+    [
+      "BAMBUS",
+      "Verholzendes Riesengras"
+    ],
+    [
+      "BANJO",
+      "Saiteninstrument mit rundem Fellkorpus"
+    ],
+    [
+      "BAROCK",
+      "Kunstepoche nach der Renaissance"
+    ],
+    [
+      "BASALT",
+      "Dunkles vulkanisches Gestein"
+    ],
+    [
+      "BASTION",
+      "Vorspringender Teil einer Festung"
+    ],
+    [
+      "BATIK",
+      "Textilfärbung mit Wachsabdeckung"
+    ],
+    [
+      "BAUXIT",
+      "Wichtigstes Aluminiumerz"
+    ],
+    [
+      "BEAGLE",
+      "Kleine englische Jagdhunderasse"
+    ],
+    [
+      "BELUGA",
+      "Weißwal"
+    ],
+    [
+      "BERYLL",
+      "Mineralgruppe von Smaragd und Aquamarin"
+    ],
+    [
+      "BIBER",
+      "Nagetier das Dämme baut"
+    ],
+    [
+      "BIDET",
+      "Sitzwaschbecken"
+    ],
+    [
+      "BIOTOP",
+      "Abgegrenzter Lebensraum"
+    ],
+    [
+      "BIRKE",
+      "Laubbaum mit häufig weißer Rinde"
+    ],
+    [
+      "BISON",
+      "Amerikanisches Wildrind"
+    ],
+    [
+      "BLENDE",
+      "Reguliert den Lichteinfall einer Kamera"
+    ],
+    [
+      "BOGEN",
+      "Gekrümmtes tragendes Bauelement"
+    ],
+    [
+      "BOLERO",
+      "Spanischer Tanz im Dreiertakt"
+    ],
+    [
+      "BONSAI",
+      "Miniaturbaum in einer Schale"
+    ],
+    [
+      "BORAX",
+      "Natriumborat"
+    ],
+    [
+      "BORKUM",
+      "Westlichste ostfriesische Insel"
+    ],
+    [
+      "BOSPORUS",
+      "Meerenge durch Istanbul"
+    ],
+    [
+      "BOTANIK",
+      "Wissenschaft von Pflanzen"
+    ],
+    [
+      "BRIGADE",
+      "Militärischer Großverband"
+    ],
+    [
+      "BROM",
+      "Halogen mit Symbol Br"
+    ],
+    [
+      "BRONZE",
+      "Legierung vorwiegend aus Kupfer und Zinn"
+    ],
+    [
+      "BUCHE",
+      "Laubbaum mit Bucheckern"
+    ],
+    [
+      "BUCKEL",
+      "Höcker auf dem Rücken"
+    ],
+    [
+      "BUDDEL",
+      "Norddeutsch für Flasche"
+    ],
+    [
+      "BURKA",
+      "Ganzkörperverschleierung mit Gesichtsgitter"
+    ],
+    [
+      "CABRIO",
+      "Auto mit öffnungsfähigem Dach"
+    ],
+    [
+      "CADMIUM",
+      "Metall mit Symbol Cd"
+    ],
+    [
+      "CAMPUS",
+      "Gelände einer Hochschule"
+    ],
+    [
+      "CELLO",
+      "Streichinstrument zwischen Bratsche und Kontrabass"
+    ],
+    [
+      "CHAOS",
+      "Zustand großer Unordnung"
+    ],
+    [
+      "CHARTA",
+      "Grundlegende schriftliche Urkunde"
+    ],
+    [
+      "CHERUB",
+      "Engelwesen der biblischen Tradition"
+    ],
+    [
+      "CHITIN",
+      "Gerüststoff im Außenskelett von Insekten"
+    ],
+    [
+      "CHLOR",
+      "Halogen mit Symbol Cl"
+    ],
+    [
+      "CHOLERA",
+      "Bakterielle Durchfallerkrankung"
+    ],
+    [
+      "CHROM",
+      "Metall mit Symbol Cr"
+    ],
+    [
+      "CHRONIK",
+      "Zeitlich geordnete Aufzeichnung"
+    ],
+    [
+      "CICERO",
+      "Römischer Redner und Staatsmann"
+    ],
+    [
+      "CIRRUS",
+      "Hohe faserige Wolke"
+    ],
+    [
+      "COGNAC",
+      "Weinbrand aus einer französischen Region"
+    ],
+    [
+      "COMIC",
+      "Bildergeschichte"
+    ],
+    [
+      "CONGA",
+      "Hohe kubanische Handtrommel"
+    ],
+    [
+      "COUSCOUS",
+      "Nordafrikanisches Gericht aus Grieß"
+    ],
+    [
+      "CREDO",
+      "Glaubensbekenntnis"
+    ],
+    [
+      "CURRY",
+      "Gewürzmischung indischer Tradition"
+    ],
+    [
+      "DAHLIE",
+      "Zierpflanze mit großen Blütenköpfen"
+    ],
+    [
+      "DAKTYLUS",
+      "Versfuß mit einer betonten und zwei unbetonten Silben"
+    ],
+    [
+      "DAMAST",
+      "Gewebe mit eingewebtem Muster"
+    ],
+    [
+      "DANDY",
+      "Auf Eleganz bedachter Mann"
+    ],
+    [
+      "DATIV",
+      "Dritter grammatischer Fall"
+    ],
+    [
+      "DEKAN",
+      "Leiter einer Hochschulfakultät"
+    ],
+    [
+      "DELIR",
+      "Akuter Verwirrtheitszustand"
+    ],
+    [
+      "DEMUT",
+      "Bescheidene Haltung"
+    ],
+    [
+      "DENAR",
+      "Antike römische Silbermünze"
+    ],
+    [
+      "DERWISCH",
+      "Angehöriger eines islamischen Sufiordens"
+    ],
+    [
+      "DESPOT",
+      "Willkürlich herrschender Machthaber"
+    ],
+    [
+      "DIABOLO",
+      "Jongliergerät in Doppelkegelform"
+    ],
+    [
+      "DIADEM",
+      "Kronenartiger Kopfschmuck"
+    ],
+    [
+      "DIALEKT",
+      "Regionale Sprachvariante"
+    ],
+    [
+      "DIKTAT",
+      "Nach Gehör geschriebener Text"
+    ],
+    [
+      "DINGO",
+      "Australischer Wildhund"
+    ],
+    [
+      "DIODE",
+      "Elektronisches Bauteil mit bevorzugter Stromrichtung"
+    ],
+    [
+      "DIPLOM",
+      "Urkunde über einen Abschluss"
+    ],
+    [
+      "DISKUS",
+      "Wurfscheibe der Leichtathletik"
+    ],
+    [
+      "DISTEL",
+      "Stachelige Korbblütlerpflanze"
+    ],
+    [
+      "DIVAN",
+      "Gepolsterte Liege ohne Rückenlehne"
+    ],
+    [
+      "DOGMA",
+      "Verbindlicher Glaubenssatz"
+    ],
+    [
+      "DOHLE",
+      "Kleiner Rabenvogel mit grauem Nacken"
+    ],
+    [
+      "DOLMEN",
+      "Megalithgrab mit Deckstein"
+    ],
+    [
+      "DOMINO",
+      "Spiel mit rechteckigen Punktesteinen"
+    ],
+    [
+      "DORSCH",
+      "Kabeljau der Ostsee"
+    ],
+    [
+      "DOSIS",
+      "Abgemessene Menge eines Wirkstoffs"
+    ],
+    [
+      "DRACHME",
+      "Frühere griechische Währung"
+    ],
+    [
+      "DROSSEL",
+      "Singvogel aus der Familie Turdidae"
+    ],
+    [
+      "DUETT",
+      "Musikstück für zwei Stimmen"
+    ],
+    [
+      "DUPLEX",
+      "Beidseitiger Druckmodus"
+    ],
+    [
+      "EBENHOLZ",
+      "Sehr dunkles tropisches Hartholz"
+    ],
+    [
+      "ECHOLOT",
+      "Gerät zur Tiefenmessung mit Schall"
+    ],
+    [
+      "EDELGAS",
+      "Reaktionsträges Element der Gruppe 18"
+    ],
+    [
+      "EFFEKT",
+      "Erzielte Wirkung"
+    ],
+    [
+      "EIBE",
+      "Immergrüner Nadelbaum mit roten Samenmänteln"
+    ],
+    [
+      "EIDECHSE",
+      "Kleines Reptil mit vier Beinen"
+    ],
+    [
+      "EINHORN",
+      "Fabeltier mit einem Stirnhorn"
+    ],
+    [
+      "EISVOGEL",
+      "Bunt gefiederter Fischjäger am Gewässer"
+    ],
+    [
+      "EKLAT",
+      "Öffentliches Aufsehen durch einen Vorfall"
+    ],
+    [
+      "ELAND",
+      "Große afrikanische Antilope"
+    ],
+    [
+      "ELIXIER",
+      "Heiltrank in alten Erzählungen"
+    ],
+    [
+      "ELLIPSE",
+      "Geschlossene ovale Kegelschnittkurve"
+    ],
+    [
+      "EMBARGO",
+      "Staatliches Handelsverbot"
+    ],
+    [
+      "EMBRYO",
+      "Frühes Entwicklungsstadium eines Lebewesens"
+    ],
+    [
+      "EMMER",
+      "Alte Weizenart"
+    ],
+    [
+      "EMOTION",
+      "Gefühlsregung"
+    ],
+    [
+      "EMULSION",
+      "Gemisch zweier nicht mischbarer Flüssigkeiten"
+    ],
+    [
+      "ENDIVIE",
+      "Salatpflanze mit bitterlichen Blättern"
+    ],
+    [
+      "ENZIAN",
+      "Alpenpflanze mit häufig blauen Blüten"
+    ],
+    [
+      "ENZYM",
+      "Biologischer Katalysator"
+    ],
+    [
+      "EPILOG",
+      "Schlusswort eines literarischen Werks"
+    ],
+    [
+      "EPOCHEN",
+      "Größere geschichtliche Zeitabschnitte"
+    ],
+    [
+      "ERKER",
+      "Geschlossener Fassadenvorsprung"
+    ],
+    [
+      "EROSION",
+      "Abtragung von Boden oder Gestein"
+    ],
+    [
+      "ESTER",
+      "Reaktionsprodukt aus Säure und Alkohol"
+    ],
+    [
+      "ESTLAND",
+      "Baltischer Staat mit Hauptstadt Tallinn"
+    ],
+    [
+      "ETAPPE",
+      "Abschnitt einer längeren Strecke"
+    ],
+    [
+      "ETHIK",
+      "Philosophische Lehre vom moralischen Handeln"
+    ],
+    [
+      "ETUDE",
+      "Musikalisches Übungsstück"
+    ],
+    [
+      "EXODUS",
+      "Auszug einer großen Menschengruppe"
+    ],
+    [
+      "FABEL",
+      "Lehrhafte Erzählung oft mit sprechenden Tieren"
+    ],
+    [
+      "FAGOTT",
+      "Tiefes Holzblasinstrument mit Doppelrohrblatt"
+    ],
+    [
+      "FAKIR",
+      "Asket der südasiatischen Tradition"
+    ],
+    [
+      "FALKE",
+      "Greifvogel mit spitzen Flügeln"
+    ],
+    [
+      "FASAN",
+      "Hühnervogel mit oft langem Schwanz"
+    ],
+    [
+      "FASSADE",
+      "Außenansicht eines Gebäudes"
+    ],
+    [
+      "FAUNA",
+      "Tierwelt eines Gebiets"
+    ],
+    [
+      "FELDSPAT",
+      "Häufige gesteinsbildende Mineralgruppe"
+    ],
+    [
+      "FENCHEL",
+      "Gemüse und Gewürz mit Anisaroma"
+    ],
+    [
+      "FERMION",
+      "Teilchen mit halbzahligem Spin"
+    ],
+    [
+      "FICHTE",
+      "Nadelbaum mit hängenden Zapfen"
+    ],
+    [
+      "FIKTION",
+      "Erdachte Darstellung"
+    ],
+    [
+      "FILIGRAN",
+      "Fein gearbeiteter Drahtschmuck"
+    ],
+    [
+      "FINALE",
+      "Letzter Teil eines Wettkampfs"
+    ],
+    [
+      "FJORD",
+      "Tiefer schmaler Meeresarm glazialen Ursprungs"
+    ],
+    [
+      "FLAMINGO",
+      "Rosafarbener Stelzvogel"
+    ],
+    [
+      "FLANELL",
+      "Weicher angerauter Stoff"
+    ],
+    [
+      "FLORA",
+      "Pflanzenwelt eines Gebiets"
+    ],
+    [
+      "FLORETT",
+      "Leichte Fechtwaffe"
+    ],
+    [
+      "FLUNDER",
+      "Plattfisch mit asymmetrischem Kopf"
+    ],
+    [
+      "FLUOR",
+      "Halogen mit Ordnungszahl neun"
+    ],
+    [
+      "FOEHN",
+      "Warmer trockener Fallwind"
+    ],
+    [
+      "FOLKLORE",
+      "Überlieferte Volkskultur"
+    ],
+    [
+      "FONDUE",
+      "Gericht mit Eintauchen in geschmolzenen Käse"
+    ],
+    [
+      "FORINT",
+      "Ungarische Währung"
+    ],
+    [
+      "FOSSIL",
+      "Versteinerter Überrest früherer Lebewesen"
+    ],
+    [
+      "FREGATTE",
+      "Kriegsschiff mittlerer Größe"
+    ],
+    [
+      "FRESKO",
+      "Wandmalerei auf frischem Putz"
+    ],
+    [
+      "FUCHSIE",
+      "Zierpflanze mit hängenden Blüten"
+    ],
+    [
+      "FUGE",
+      "Musikform mit nacheinander einsetzendem Thema"
+    ],
+    [
+      "FURCHE",
+      "Längliche Vertiefung im Acker"
+    ],
+    [
+      "GABBRO",
+      "Dunkles magmatisches Tiefengestein"
+    ],
+    [
+      "GAMBE",
+      "Historisches Streichinstrument"
+    ],
+    [
+      "GAMBIT",
+      "Eröffnungsopfer beim Schach"
+    ],
+    [
+      "GAZELLE",
+      "Schlanke schnelle Antilope"
+    ],
+    [
+      "GECKO",
+      "Echse mit oft haftenden Zehen"
+    ],
+    [
+      "GEMSE",
+      "Alpines Ziegenartiges Huftier"
+    ],
+    [
+      "GENITIV",
+      "Zweiter grammatischer Fall"
+    ],
+    [
+      "GENOM",
+      "Gesamtheit der Erbinformation"
+    ],
+    [
+      "GERANIE",
+      "Umgangssprachlicher Name der Pelargonie"
+    ],
+    [
+      "GIBBON",
+      "Kleiner Menschenaffe mit langen Armen"
+    ],
+    [
+      "GINKGO",
+      "Baum mit fächerförmigen Blättern"
+    ],
+    [
+      "GLIMMER",
+      "Mineralgruppe mit blättriger Spaltbarkeit"
+    ],
+    [
+      "GLUKOSE",
+      "Traubenzucker"
+    ],
+    [
+      "GNOM",
+      "Zwergenartiges Fabelwesen"
+    ],
+    [
+      "GOBELIN",
+      "Bildteppich"
+    ],
+    [
+      "GONG",
+      "Metallisches Schlaginstrument"
+    ],
+    [
+      "GOTIK",
+      "Baustil mit Spitzbögen"
+    ],
+    [
+      "GRANAT",
+      "Mineralgruppe häufig roter Schmucksteine"
+    ],
+    [
+      "GRANIT",
+      "Tiefengestein aus Feldspat Quarz und Glimmer"
+    ],
+    [
+      "GREIF",
+      "Fabelwesen aus Adler und Löwe"
+    ],
+    [
+      "GROTTE",
+      "Kleine natürliche oder künstliche Höhle"
+    ],
+    [
+      "GUANO",
+      "Dünger aus Seevogelablagerungen"
+    ],
+    [
+      "GUPPY",
+      "Lebendgebärender Aquarienfisch"
+    ],
+    [
+      "GYMNASION",
+      "Antike griechische Sportstätte"
+    ],
+    [
+      "HAFNIUM",
+      "Metall mit Symbol Hf"
+    ],
+    [
+      "HAIKU",
+      "Japanische Kurzgedichtform"
+    ],
+    [
+      "HALOGEN",
+      "Element der siebzehnten Hauptgruppe"
+    ],
+    [
+      "HAMSTER",
+      "Nagetier mit Backentaschen"
+    ],
+    [
+      "HARPUNE",
+      "Wurfspieß zum Fischfang"
+    ],
+    [
+      "HECHT",
+      "Langgestreckter Süßwasserraubfisch"
+    ],
+    [
+      "HEIDE",
+      "Landschaft mit Zwergsträuchern"
+    ],
+    [
+      "HELIUM",
+      "Edelgas mit Ordnungszahl zwei"
+    ],
+    [
+      "HERING",
+      "Schwarmfisch der Nordmeere"
+    ],
+    [
+      "HERMELIN",
+      "Wiesel mit weißem Winterfell"
+    ],
+    [
+      "HERZOG",
+      "Adelstitel unterhalb eines Königs"
+    ],
+    [
+      "HETERO",
+      "Griechischer Wortbestandteil für verschieden"
+    ],
+    [
+      "HIBISKUS",
+      "Malvengewächs mit auffälligen Blüten"
+    ],
+    [
+      "HINDI",
+      "Indoarische Amtssprache Indiens"
+    ],
+    [
+      "HIRSE",
+      "Sammelbegriff für kleinkörnige Getreidearten"
+    ],
+    [
+      "HOBEL",
+      "Werkzeug zum Glätten von Holz"
+    ],
+    [
+      "HOLMIUM",
+      "Seltenerdmetall mit Symbol Ho"
+    ],
+    [
+      "HOMER",
+      "Antiker Dichter der Ilias"
+    ],
+    [
+      "HORIZONT",
+      "Scheinbare Grenze zwischen Himmel und Erde"
+    ],
+    [
+      "HUMMEL",
+      "Pelziges staatenbildendes Insekt"
+    ],
+    [
+      "HUMUS",
+      "Organischer Bestandteil des Bodens"
+    ],
+    [
+      "HYBRID",
+      "Mischform aus unterschiedlichen Komponenten"
+    ],
+    [
+      "HYDRA",
+      "Vielköpfiges Ungeheuer der griechischen Sage"
+    ],
+    [
+      "HYGIENE",
+      "Maßnahmen zur Gesunderhaltung"
+    ],
+    [
+      "IBERER",
+      "Angehöriger eines antiken Volks der Pyrenäenhalbinsel"
+    ],
+    [
+      "IBIS",
+      "Vogel mit langem gebogenem Schnabel"
+    ],
+    [
+      "IGLU",
+      "Kuppelförmiges Schneehaus"
+    ],
+    [
+      "IKONE",
+      "Religiöses Kultbild der Ostkirche"
+    ],
+    [
+      "ILIAS",
+      "Antikes Epos über den Trojanischen Krieg"
+    ],
+    [
+      "ILMENIT",
+      "Titanhaltiges Erzmineral"
+    ],
+    [
+      "IMPULS",
+      "Physikalische Größe aus Masse mal Geschwindigkeit"
+    ],
+    [
+      "INDIUM",
+      "Metall mit Symbol In"
+    ],
+    [
+      "INERT",
+      "Chemisch reaktionsträge"
+    ],
+    [
+      "INGWER",
+      "Scharfes aromatisches Rhizom"
+    ],
+    [
+      "INKA",
+      "Historisches Andenvolk"
+    ],
+    [
+      "ION",
+      "Elektrisch geladenes Atom oder Molekül"
+    ],
+    [
+      "IRIDIUM",
+      "Edelmetall mit Symbol Ir"
+    ],
+    [
+      "IRIS",
+      "Regenbogenhaut des Auges"
+    ],
+    [
+      "ISOBAR",
+      "Linie gleichen Luftdrucks"
+    ],
+    [
+      "ISOTOP",
+      "Atomart mit gleicher Protonenzahl und anderer Neutronenzahl"
+    ],
+    [
+      "JAGUAR",
+      "Größte Raubkatze Amerikas"
+    ],
+    [
+      "JASMIN",
+      "Duftende Blütenpflanze"
+    ],
+    [
+      "JASPIS",
+      "Undurchsichtige Quarzvarietät"
+    ],
+    [
+      "JERSEY",
+      "Gestrickter elastischer Stoff"
+    ],
+    [
+      "JOD",
+      "Halogen mit Ordnungszahl 53"
+    ],
+    [
+      "JOKER",
+      "Spielkarte mit Sonderfunktion"
+    ],
+    [
+      "JUDO",
+      "Japanische Kampfsportart"
+    ],
+    [
+      "JURTE",
+      "Rundes traditionelles Nomadenzelt"
+    ],
+    [
+      "KABUKI",
+      "Traditionelle japanische Theaterform"
+    ],
+    [
+      "KAKADU",
+      "Papagei mit aufstellbarer Federhaube"
+    ],
+    [
+      "KAKTUS",
+      "Sukkulente Pflanze mit Areolen"
+    ],
+    [
+      "KALIUM",
+      "Alkalimetall mit Symbol K"
+    ],
+    [
+      "KAMELIE",
+      "Immergrüner Zierstrauch aus Ostasien"
+    ],
+    [
+      "KANON",
+      "Musikstück mit zeitversetzten gleichen Stimmen"
+    ],
+    [
+      "KANTATE",
+      "Mehrteiliges Vokalwerk"
+    ],
+    [
+      "KAPERN",
+      "Eingelegte Blütenknospen als Würzmittel"
+    ],
+    [
+      "KARAT",
+      "Masseneinheit für Edelsteine"
+    ],
+    [
+      "KARIBU",
+      "Nordamerikanisches Rentier"
+    ],
+    [
+      "KARMA",
+      "Lehre von den Folgen eigener Handlungen"
+    ],
+    [
+      "KARST",
+      "Landschaft mit lösungsbedingten Höhlen"
+    ],
+    [
+      "KASACK",
+      "Locker geschnittenes Berufsoberteil"
+    ],
+    [
+      "KASCHMIR",
+      "Feine Wolle einer Ziegenrasse"
+    ],
+    [
+      "KASTANIE",
+      "Baum mit stacheligen Fruchthüllen"
+    ],
+    [
+      "KATHODE",
+      "Elektrode der Reduktion"
+    ],
+    [
+      "KAURI",
+      "Schneckenhaus das als Zahlungsmittel diente"
+    ],
+    [
+      "KEGEL",
+      "Körper mit Kreisgrundfläche und Spitze"
+    ],
+    [
+      "KERATIN",
+      "Faserprotein in Haaren und Nägeln"
+    ],
+    [
+      "KERMES",
+      "Historischer roter Farbstoff aus Schildläusen"
+    ],
+    [
+      "KIEBITZ",
+      "Watvogel mit auffälliger Federhaube"
+    ],
+    [
+      "KIEFER",
+      "Nadelbaum der Gattung Pinus"
+    ],
+    [
+      "KIMONO",
+      "Traditionelles japanisches Gewand"
+    ],
+    [
+      "KIMCHI",
+      "Koreanisches fermentiertes Gemüse"
+    ],
+    [
+      "KIRIBATI",
+      "Pazifischer Inselstaat mit Hauptstadt Tarawa"
+    ],
+    [
+      "KITT",
+      "Dichtmasse für Fugen"
+    ],
+    [
+      "KLEIBER",
+      "Vogel der kopfabwärts am Stamm läuft"
+    ],
+    [
+      "KOBALT",
+      "Metall mit Ordnungszahl 27"
+    ],
+    [
+      "KOBRA",
+      "Giftschlange mit spreizbarem Nackenschild"
+    ],
+    [
+      "KOKON",
+      "Schutzhülle einer Insektenpuppe"
+    ],
+    [
+      "KOLIBRI",
+      "Kleiner Vogel mit Schwirrflug"
+    ],
+    [
+      "KOLONIE",
+      "Ansiedlung außerhalb eines Mutterlands"
+    ],
+    [
+      "KONTAKT",
+      "Berührung oder Verbindung"
+    ],
+    [
+      "KORALLE",
+      "Riffbildendes Nesseltier"
+    ],
+    [
+      "KORUND",
+      "Mineral mit Mohshärte neun"
+    ],
+    [
+      "KOSINUS",
+      "Trigonometrische Funktion"
+    ],
+    [
+      "KRAKE",
+      "Kopffüßer mit acht Armen"
+    ],
+    [
+      "KREIDE",
+      "Weiches kalkhaltiges Schreibmaterial"
+    ],
+    [
+      "KROKUS",
+      "Frühblühendes Schwertliliengewächs"
+    ],
+    [
+      "KRYPTON",
+      "Edelgas mit Symbol Kr"
+    ],
+    [
+      "KUBISMUS",
+      "Kunstrichtung mit geometrisch zerlegten Formen"
+    ],
+    [
+      "KURATOR",
+      "Betreuer einer Ausstellung"
+    ],
+    [
+      "LABRUM",
+      "Knorpellippe eines Gelenks"
+    ],
+    [
+      "LACHS",
+      "Wanderfisch mit rosafarbenem Fleisch"
+    ],
+    [
+      "LAGUNE",
+      "Durch Nehrung oder Riff abgetrenntes Gewässer"
+    ],
+    [
+      "LAMBDA",
+      "Elfter griechischer Buchstabe"
+    ],
+    [
+      "LAPIS",
+      "Lateinisch für Stein"
+    ],
+    [
+      "LARGO",
+      "Sehr langsames musikalisches Tempo"
+    ],
+    [
+      "LARVE",
+      "Jugendstadium vieler Insekten"
+    ],
+    [
+      "LATEX",
+      "Milchsaft des Kautschukbaums"
+    ],
+    [
+      "LAVENDEL",
+      "Duftender violett blühender Halbstrauch"
+    ],
+    [
+      "LEGUAN",
+      "Echse aus den amerikanischen Tropen"
+    ],
+    [
+      "LEMMA",
+      "Stichwort in einem Wörterbuch"
+    ],
+    [
+      "LEMUR",
+      "Feuchtnasenprimat Madagaskars"
+    ],
+    [
+      "LEPTON",
+      "Elementarteilchenklasse zu der Elektronen gehören"
+    ],
+    [
+      "LIBELLE",
+      "Insekt mit zwei großen Flügelpaaren"
+    ],
+    [
+      "LIGATUR",
+      "Typografische Verbindung mehrerer Buchstaben"
+    ],
+    [
+      "LIMETTE",
+      "Kleine grüne Zitrusfrucht"
+    ],
+    [
+      "LIMONIT",
+      "Brauneisenstein"
+    ],
+    [
+      "LINDWURM",
+      "Drachenartiges Fabelwesen"
+    ],
+    [
+      "LINSE",
+      "Hülsenfrucht mit flachen Samen"
+    ],
+    [
+      "LITHIUM",
+      "Leichtestes Metall"
+    ],
+    [
+      "LOESS",
+      "Vom Wind abgelagerter Schluff"
+    ],
+    [
+      "LOKUS",
+      "Ort eines Gens auf einem Chromosom"
+    ],
+    [
+      "LOTUS",
+      "Asiatische Wasserpflanze mit symbolträchtiger Blüte"
+    ],
+    [
+      "LUMEN",
+      "Einheit des Lichtstroms"
+    ],
+    [
+      "LUPINE",
+      "Hülsenfrüchtler mit aufrechten Blütenständen"
+    ],
+    [
+      "LYRIK",
+      "Gattung der Dichtkunst"
+    ],
+    [
+      "MAKAK",
+      "Asiatische Affengattung"
+    ],
+    [
+      "MALACHIT",
+      "Grünes Kupfermineral"
+    ],
+    [
+      "MAMBA",
+      "Afrikanische Giftschlange"
+    ],
+    [
+      "MAMMUT",
+      "Ausgestorbenes Rüsseltier"
+    ],
+    [
+      "MANDALA",
+      "Kreisförmiges meditatives Schaubild"
+    ],
+    [
+      "MANDRILL",
+      "Affe mit farbigem Gesicht"
+    ],
+    [
+      "MANGAN",
+      "Metall mit Symbol Mn"
+    ],
+    [
+      "MANGOLD",
+      "Blattgemüse aus der Rübenart"
+    ],
+    [
+      "MANTRA",
+      "Wiederholte religiöse Klangformel"
+    ],
+    [
+      "MARABU",
+      "Afrikanischer Storchenvogel"
+    ],
+    [
+      "MARMOR",
+      "Metamorphes Kalkgestein"
+    ],
+    [
+      "MARSCH",
+      "Flaches fruchtbares Küstenland"
+    ],
+    [
+      "MATRIX",
+      "Rechteckige Anordnung mathematischer Elemente"
+    ],
+    [
+      "MAULBEERE",
+      "Frucht eines Seidenraupenfutterbaums"
+    ],
+    [
+      "MEDIAN",
+      "Mittlerer Wert einer geordneten Datenreihe"
+    ],
+    [
+      "MEDUSE",
+      "Schirmförmige Lebensform vieler Nesseltiere"
+    ],
+    [
+      "MERIDIAN",
+      "Geografischer Längenkreis"
+    ],
+    [
+      "MESON",
+      "Teilchen aus Quark und Antiquark"
+    ],
+    [
+      "METEOR",
+      "Leuchterscheinung eines eintretenden Weltraumkörpers"
+    ],
+    [
+      "MIMIK",
+      "Gesichtsausdruck"
+    ],
+    [
+      "MIMOSEN",
+      "Pflanzen mit berührungsempfindlichen Blättern"
+    ],
+    [
+      "MINARETT",
+      "Turm einer Moschee"
+    ],
+    [
+      "MIRABELLE",
+      "Kleine gelbe Pflaumenfrucht"
+    ],
+    [
+      "MISTRAL",
+      "Kalter Nordwind in Südfrankreich"
+    ],
+    [
+      "MITOSE",
+      "Kernteilung mit gleichen Chromosomensätzen"
+    ],
+    [
+      "MOHAIR",
+      "Wolle der Angoraziege"
+    ],
+    [
+      "MOLCH",
+      "Schwanzlurch mit wasserlebender Fortpflanzungsphase"
+    ],
+    [
+      "MONADE",
+      "Unteilbare Einheit bei Leibniz"
+    ],
+    [
+      "MONARCH",
+      "Erblicher oder gewählter Alleinherrscher"
+    ],
+    [
+      "MONSUN",
+      "Jahreszeitlich wechselndes Windsystem"
+    ],
+    [
+      "MORPHIN",
+      "Schmerzstillendes Alkaloid des Schlafmohns"
+    ],
+    [
+      "MOTETTE",
+      "Mehrstimmiges geistliches Vokalstück"
+    ],
+    [
+      "MOUFLON",
+      "Wildschaf mit gebogenen Hörnern"
+    ],
+    [
+      "MUEHLE",
+      "Anlage zum Zerkleinern von Getreide"
+    ],
+    [
+      "MULDE",
+      "Flache Vertiefung im Gelände"
+    ],
+    [
+      "MUSKAT",
+      "Gewürz aus dem Samen eines Tropenbaums"
+    ],
+    [
+      "MYRTE",
+      "Immergrüner mediterraner Duftstrauch"
+    ],
+    [
+      "MYTHOS",
+      "Überlieferte symbolische Erzählung"
+    ],
+    [
+      "NANDU",
+      "Südamerikanischer Laufvogel"
+    ],
+    [
+      "NARWAL",
+      "Arktischer Wal mit langem Stoßzahn"
+    ],
+    [
+      "NATRON",
+      "Natriumhydrogencarbonat im Haushalt"
+    ],
+    [
+      "NAUTILUS",
+      "Kopffüßer mit gekammerter Außenschale"
+    ],
+    [
+      "NEKTAR",
+      "Zuckerhaltige Flüssigkeit in Blüten"
+    ],
+    [
+      "NEON",
+      "Edelgas mit Symbol Ne"
+    ],
+    [
+      "NEPHRIT",
+      "Eine der beiden Jadearten"
+    ],
+    [
+      "NERZ",
+      "Marderart mit dichtem Fell"
+    ],
+    [
+      "NEURON",
+      "Nervenzelle"
+    ],
+    [
+      "NEUTRON",
+      "Elektrisch neutrales Kernteilchen"
+    ],
+    [
+      "NICKEL",
+      "Metall mit Symbol Ni"
+    ],
+    [
+      "NIOB",
+      "Metall mit Symbol Nb"
+    ],
+    [
+      "NIRWANA",
+      "Buddhistischer Zustand der Befreiung"
+    ],
+    [
+      "NOMADE",
+      "Mensch ohne dauerhaft festen Wohnsitz"
+    ],
+    [
+      "NONETT",
+      "Musikstück für neun Ausführende"
+    ],
+    [
+      "NOTAR",
+      "Amtsperson zur Beurkundung"
+    ],
+    [
+      "NOUGAT",
+      "Süßware aus Nüssen und Zucker"
+    ],
+    [
+      "NUKLEUS",
+      "Lateinisch für Kern"
+    ],
+    [
+      "NYMPHE",
+      "Weiblicher Naturgeist der griechischen Mythologie"
+    ],
+    [
+      "OBOE",
+      "Holzblasinstrument mit Doppelrohrblatt"
+    ],
+    [
+      "OBSIDIAN",
+      "Natürliches vulkanisches Glas"
+    ],
+    [
+      "ODYSSEE",
+      "Lange abenteuerliche Irrfahrt"
+    ],
+    [
+      "OEKUMENE",
+      "Bewegung zur Einheit christlicher Kirchen"
+    ],
+    [
+      "OELBAUM",
+      "Mediterraner Baum mit ölreichen Früchten"
+    ],
+    [
+      "OKAPI",
+      "Waldgiraffe mit gestreiften Beinen"
+    ],
+    [
+      "OKTAVE",
+      "Musikintervall mit Frequenzverhältnis zwei zu eins"
+    ],
+    [
+      "OLEANDER",
+      "Giftiger mediterraner Zierstrauch"
+    ],
+    [
+      "OLIVIN",
+      "Grünes gesteinsbildendes Silikatmineral"
+    ],
+    [
+      "OMEGA",
+      "Letzter griechischer Buchstabe"
+    ],
+    [
+      "OMIKRON",
+      "Fünfzehnter griechischer Buchstabe"
+    ],
+    [
+      "ONYX",
+      "Schwarzweiß gebänderter Chalcedon"
+    ],
+    [
+      "OPAL",
+      "Schmuckstein mit möglichem Farbenspiel"
+    ],
+    [
+      "OPOSSUM",
+      "Amerikanisches Beuteltier"
+    ],
+    [
+      "ORAKEL",
+      "Weissagungsstätte oder Weissagung"
+    ],
+    [
+      "ORBIT",
+      "Umlaufbahn eines Himmelskörpers"
+    ],
+    [
+      "ORIGAMI",
+      "Japanische Papierfaltkunst"
+    ],
+    [
+      "ORION",
+      "Sternbild mit drei Gürtelsternen"
+    ],
+    [
+      "OSMIUM",
+      "Sehr dichtes Edelmetall mit Symbol Os"
+    ],
+    [
+      "OVATION",
+      "Begeisterter Beifall"
+    ],
+    [
+      "OXID",
+      "Verbindung eines Elements mit Sauerstoff"
+    ],
+    [
+      "OZON",
+      "Sauerstoffmolekül aus drei Atomen"
+    ],
+    [
+      "PAGODE",
+      "Mehrgeschossiger ostasiatischer Turmbau"
+    ],
+    [
+      "PAPYRUS",
+      "Antiker Beschreibstoff aus einer Sumpfpflanze"
+    ],
+    [
+      "PARABEL",
+      "Mathematische Kurve zweiten Grades"
+    ],
+    [
+      "PARIA",
+      "Gesellschaftlich Ausgestoßener"
+    ],
+    [
+      "PARSEC",
+      "Astronomische Entfernungseinheit"
+    ],
+    [
+      "PASTELL",
+      "Maltechnik mit weichen Farbstiften"
+    ],
+    [
+      "PATINA",
+      "Altersbedingte Oberflächenschicht"
+    ],
+    [
+      "PEKAN",
+      "Nordamerikanische Nussart"
+    ],
+    [
+      "PELIKAN",
+      "Wasservogel mit Kehlsack"
+    ],
+    [
+      "PENDEL",
+      "Schwingender aufgehängter Körper"
+    ],
+    [
+      "PERIDOT",
+      "Schmucksteinvarietät des Olivins"
+    ],
+    [
+      "PETUNIE",
+      "Beliebte Balkonpflanze mit Trichterblüten"
+    ],
+    [
+      "PHALANX",
+      "Antike geschlossene Schlachtordnung"
+    ],
+    [
+      "PHARAO",
+      "Herrschertitel im alten Ägypten"
+    ],
+    [
+      "PHOTON",
+      "Lichtquant"
+    ],
+    [
+      "PILASTER",
+      "Flacher Wandpfeiler"
+    ],
+    [
+      "PINIE",
+      "Mediterrane Kiefer mit essbaren Samen"
+    ],
+    [
+      "PIRANHA",
+      "Südamerikanischer Fisch mit scharfen Zähnen"
+    ],
+    [
+      "PISTAZIE",
+      "Grünlicher essbarer Samen eines Steinobstbaums"
+    ],
+    [
+      "PLANKTON",
+      "Im Wasser treibende Organismen"
+    ],
+    [
+      "PLASMA",
+      "Ionisierter Materiezustand"
+    ],
+    [
+      "PLEXUS",
+      "Geflecht von Nerven oder Gefäßen"
+    ],
+    [
+      "PLUTO",
+      "Zwergplanet im Kuipergürtel"
+    ],
+    [
+      "POLENTA",
+      "Brei aus Maisgrieß"
+    ],
+    [
+      "POLYP",
+      "Festsitzende Körperform vieler Nesseltiere"
+    ],
+    [
+      "POMELO",
+      "Große Zitrusfrucht"
+    ],
+    [
+      "PONY",
+      "Kleinpferd"
+    ],
+    [
+      "PORPHYR",
+      "Gestein mit größeren Kristallen in feiner Grundmasse"
+    ],
+    [
+      "POSAUNE",
+      "Blechblasinstrument mit Zug"
+    ],
+    [
+      "PRALINE",
+      "Kleine gefüllte Schokoladensüßigkeit"
+    ],
+    [
+      "PRISMA",
+      "Optischer Körper zur Lichtbrechung"
+    ],
+    [
+      "PROLOG",
+      "Einleitung eines literarischen Werks"
+    ],
+    [
+      "PROTON",
+      "Positiv geladenes Kernteilchen"
+    ],
+    [
+      "PUMA",
+      "Amerikanische Großkatze ohne Fleckenmuster"
+    ],
+    [
+      "PYRIT",
+      "Mineral auch Katzengold genannt"
+    ],
+    [
+      "PYTHON",
+      "Würgeschlange der Alten Welt"
+    ],
+    [
+      "QUADER",
+      "Körper mit sechs rechteckigen Flächen"
+    ],
+    [
+      "QUAGGA",
+      "Ausgestorbene Unterart des Steppenzebras"
+    ],
+    [
+      "QUANT",
+      "Kleinste diskrete Menge einer physikalischen Größe"
+    ],
+    [
+      "QUARZ",
+      "Mineral aus Siliciumdioxid"
+    ],
+    [
+      "QUASAR",
+      "Extrem leuchtender aktiver Galaxienkern"
+    ],
+    [
+      "QUETZAL",
+      "Mittelamerikanischer Vogel mit langem Schwanz"
+    ],
+    [
+      "QUITTE",
+      "Hartes aromatisches Kernobst"
+    ],
+    [
+      "RADON",
+      "Radioaktives Edelgas"
+    ],
+    [
+      "RAHMEN",
+      "Einfassung eines Bildes"
+    ],
+    [
+      "RALLEN",
+      "Vogelfamilie zu der Blässhühner gehören"
+    ],
+    [
+      "RAMIE",
+      "Faserpflanze aus der Familie der Brennnesseln"
+    ],
+    [
+      "RAPUNZEL",
+      "Märchenfigur mit langem Haar"
+    ],
+    [
+      "RAUTE",
+      "Viereck mit vier gleich langen Seiten"
+    ],
+    [
+      "REBHUHN",
+      "Feldvogel aus der Familie der Fasanenartigen"
+    ],
+    [
+      "REGATTA",
+      "Wettfahrt mit Booten"
+    ],
+    [
+      "RELIKT",
+      "Überbleibsel vergangener Zeiten"
+    ],
+    [
+      "RHABARBER",
+      "Gemüse mit säuerlichen Blattstielen"
+    ],
+    [
+      "RHENIUM",
+      "Metall mit Symbol Re"
+    ],
+    [
+      "RHETORIK",
+      "Kunst der überzeugenden Rede"
+    ],
+    [
+      "RHODIUM",
+      "Edelmetall mit Symbol Rh"
+    ],
+    [
+      "RIGEL",
+      "Heller Stern im Orion"
+    ],
+    [
+      "RITUAL",
+      "Festgelegte symbolische Handlung"
+    ],
+    [
+      "ROBINIE",
+      "Baum mit weißen duftenden Blütentrauben"
+    ],
+    [
+      "ROCHEN",
+      "Knorpelfisch mit abgeflachtem Körper"
+    ],
+    [
+      "RONDO",
+      "Musikform mit wiederkehrendem Hauptthema"
+    ],
+    [
+      "RUBIDIUM",
+      "Alkalimetall mit Symbol Rb"
+    ],
+    [
+      "RUCOLA",
+      "Würziger Blattsalat auch Rauke genannt"
+    ],
+    [
+      "RUDEL",
+      "Gruppe gemeinsam lebender Wölfe"
+    ],
+    [
+      "RUNE",
+      "Schriftzeichen alter germanischer Alphabete"
+    ],
+    [
+      "SAFRAN",
+      "Gewürz aus Krokusnarben"
+    ],
+    [
+      "SALBEI",
+      "Heilkraut mit aromatischen graugrünen Blättern"
+    ],
+    [
+      "SALMI",
+      "Ragout aus Wildgeflügel"
+    ],
+    [
+      "SAMBUCA",
+      "Italienischer Anislikör"
+    ],
+    [
+      "SAMEN",
+      "Pflanzliche Verbreitungseinheit mit Embryo"
+    ],
+    [
+      "SANDALEN",
+      "Offene Schuhe mit Riemen"
+    ],
+    [
+      "SARDINE",
+      "Kleiner Schwarmfisch der Heringsfamilie"
+    ],
+    [
+      "SARGASSO",
+      "Braunalge mit Gasblasen"
+    ],
+    [
+      "SATIRE",
+      "Spöttische Kritik in Kunst oder Literatur"
+    ],
+    [
+      "SAURIER",
+      "Sammelbegriff für urzeitliche Reptilien"
+    ],
+    [
+      "SCHAKAL",
+      "Wildhund kleiner als ein Wolf"
+    ],
+    [
+      "SCHELF",
+      "Flacher untermeerischer Kontinentalrand"
+    ],
+    [
+      "SCHIEFER",
+      "Gestein mit ausgeprägter Spaltbarkeit"
+    ],
+    [
+      "SCHILF",
+      "Hohes Süßgras am Gewässerrand"
+    ],
+    [
+      "SCHLEIE",
+      "Grünlicher Süßwasserfisch mit kleinen Schuppen"
+    ],
+    [
+      "SCHMERLE",
+      "Bodenlebender Süßwasserfisch"
+    ],
+    [
+      "SCHNAUZE",
+      "Vorspringender Mundbereich eines Tieres"
+    ],
+    [
+      "SCHOLLE",
+      "Plattfisch mit orangefarbenen Flecken"
+    ],
+    [
+      "SCHOTE",
+      "Fruchttyp der Kreuzblütler"
+    ],
+    [
+      "SCHWALBE",
+      "Zugvogel mit gegabeltem Schwanz"
+    ],
+    [
+      "SEKANTE",
+      "Gerade die einen Kreis zweimal schneidet"
+    ],
+    [
+      "SELEN",
+      "Element mit Symbol Se"
+    ],
+    [
+      "SEPIA",
+      "Brauner Farbstoff aus Tintenfischen"
+    ],
+    [
+      "SERAPH",
+      "Sechsflügeliges Engelwesen"
+    ],
+    [
+      "SERENADE",
+      "Abendliches Ständchen"
+    ],
+    [
+      "SESAM",
+      "Ölsaat auf vielen Brötchen"
+    ],
+    [
+      "SHIITAKE",
+      "Essbarer ostasiatischer Pilz"
+    ],
+    [
+      "SIGMA",
+      "Achtzehnter griechischer Buchstabe"
+    ],
+    [
+      "SILEX",
+      "Andere Bezeichnung für Feuerstein"
+    ],
+    [
+      "SILIZIUM",
+      "Halbmetall mit Symbol Si"
+    ],
+    [
+      "SINUS",
+      "Trigonometrische Funktion des Gegenkathetenverhältnisses"
+    ],
+    [
+      "SITAR",
+      "Indisches Langhals-Zupfinstrument"
+    ],
+    [
+      "SKALAR",
+      "Mathematische Größe ohne Richtung"
+    ],
+    [
+      "SKORPION",
+      "Spinnentier mit Giftstachel"
+    ],
+    [
+      "SONATE",
+      "Instrumentalwerk mit mehreren Sätzen"
+    ],
+    [
+      "SORBET",
+      "Gefrorene Süßspeise meist ohne Milch"
+    ],
+    [
+      "SPHINX",
+      "Fabelwesen mit Löwenkörper und Menschenkopf"
+    ],
+    [
+      "SPINELL",
+      "Mineral mit kubischer Kristallstruktur"
+    ],
+    [
+      "STAPEL",
+      "Übereinandergelegte Gegenstände"
+    ],
+    [
+      "STIBIUM",
+      "Lateinischer Name des Antimons"
+    ],
+    [
+      "STINT",
+      "Kleiner Fisch mit gurkenartigem Geruch"
+    ],
+    [
+      "STOLA",
+      "Schultertuch oder liturgisches Gewand"
+    ],
+    [
+      "STRUMA",
+      "Vergrößerte Schilddrüse"
+    ],
+    [
+      "SUMACH",
+      "Gewürz aus säuerlichen roten Früchten"
+    ],
+    [
+      "SYLPHE",
+      "Luftgeist der Elementarlehre"
+    ],
+    [
+      "SYNTAX",
+      "Lehre vom Satzbau"
+    ],
+    [
+      "TABOR",
+      "Biblischer Berg in Galiläa"
+    ],
+    [
+      "TAFT",
+      "Glatter steifer Stoff"
+    ],
+    [
+      "TAIGA",
+      "Borealer Nadelwaldgürtel"
+    ],
+    [
+      "TAIPAN",
+      "Australische Giftschlange"
+    ],
+    [
+      "TAKTIK",
+      "Planmäßiges Vorgehen in einer konkreten Situation"
+    ],
+    [
+      "TALER",
+      "Historische große Silbermünze"
+    ],
+    [
+      "TALK",
+      "Mineral mit Mohshärte eins"
+    ],
+    [
+      "TAMARIN",
+      "Kleiner südamerikanischer Krallenaffe"
+    ],
+    [
+      "TANGENS",
+      "Trigonometrisches Verhältnis von Gegenkathete zu Ankathete"
+    ],
+    [
+      "TANTAL",
+      "Metall mit Symbol Ta"
+    ],
+    [
+      "TAPIR",
+      "Unpaarhufer mit kurzem Rüssel"
+    ],
+    [
+      "TARANTEL",
+      "Große Wolfspinne"
+    ],
+    [
+      "TAXON",
+      "Systematische Gruppe von Lebewesen"
+    ],
+    [
+      "TEAK",
+      "Witterungsbeständiges tropisches Holz"
+    ],
+    [
+      "TELLUR",
+      "Element mit Symbol Te"
+    ],
+    [
+      "TENOR",
+      "Hohe männliche Gesangsstimme"
+    ],
+    [
+      "TERBIUM",
+      "Seltenerdmetall mit Symbol Tb"
+    ],
+    [
+      "TERMITEN",
+      "Staatenbildende holzverwertende Insekten"
+    ],
+    [
+      "TESLA",
+      "Einheit der magnetischen Flussdichte"
+    ],
+    [
+      "THALLIUM",
+      "Metall mit Symbol Tl"
+    ],
+    [
+      "THEOREM",
+      "Mathematisch bewiesener Lehrsatz"
+    ],
+    [
+      "THORIUM",
+      "Radioaktives Metall mit Symbol Th"
+    ],
+    [
+      "THUJA",
+      "Nadelgehölz auch Lebensbaum genannt"
+    ],
+    [
+      "THULIUM",
+      "Seltenerdmetall mit Symbol Tm"
+    ],
+    [
+      "TITAN",
+      "Metall mit Symbol Ti"
+    ],
+    [
+      "TOFU",
+      "Geronnenes Sojaprodukt"
+    ],
+    [
+      "TOPAS",
+      "Schmuckstein mit Mohshärte acht"
+    ],
+    [
+      "TORF",
+      "Teilweise zersetztes Pflanzenmaterial im Moor"
+    ],
+    [
+      "TRACHEE",
+      "Luftröhre oder Atemkanal eines Insekts"
+    ],
+    [
+      "TRAPEZ",
+      "Viereck mit mindestens einem parallelen Seitenpaar"
+    ],
+    [
+      "TREMOLO",
+      "Schnelle Wiederholung eines Tons"
+    ],
+    [
+      "TRITON",
+      "Größter Mond des Neptun"
+    ],
+    [
+      "TROIKA",
+      "Russisches Dreigespann"
+    ],
+    [
+      "TUKAN",
+      "Tropischer Vogel mit sehr großem Schnabel"
+    ],
+    [
+      "TURMALIN",
+      "Mineralgruppe vielfarbiger Schmucksteine"
+    ],
+    [
+      "TYPHUS",
+      "Infektionskrankheit durch Salmonella Typhi"
+    ],
+    [
+      "UHU",
+      "Große Eulenart mit Federohren"
+    ],
+    [
+      "UKULELE",
+      "Kleines hawaiianisches Zupfinstrument"
+    ],
+    [
+      "ULME",
+      "Laubbaum mit asymmetrischem Blattgrund"
+    ],
+    [
+      "UMBRA",
+      "Braunes natürliches Erdpigment"
+    ],
+    [
+      "UNZE",
+      "Historische Masseneinheit"
+    ],
+    [
+      "URAN",
+      "Radioaktives Element mit Symbol U"
+    ],
+    [
+      "URSON",
+      "Nordamerikanisches Baumstachelschwein"
+    ],
+    [
+      "USUS",
+      "Üblicher Brauch"
+    ],
+    [
+      "VAKUUM",
+      "Raum mit sehr geringem Gasdruck"
+    ],
+    [
+      "VALENZ",
+      "Chemische Bindungswertigkeit"
+    ],
+    [
+      "VANADIUM",
+      "Metall mit Symbol V"
+    ],
+    [
+      "VANILLE",
+      "Gewürz aus Orchideenfrüchten"
+    ],
+    [
+      "VARAN",
+      "Große Echse der Gattung Varanus"
+    ],
+    [
+      "VEKTOR",
+      "Mathematische Größe mit Richtung und Betrag"
+    ],
+    [
+      "VEILCHEN",
+      "Pflanze der Gattung Viola"
+    ],
+    [
+      "VELUM",
+      "Gaumensegel in der Anatomie"
+    ],
+    [
+      "VERB",
+      "Wortart für Tätigkeiten und Zustände"
+    ],
+    [
+      "VESPER",
+      "Kirchliches Abendgebet"
+    ],
+    [
+      "VIKUNJA",
+      "Wildes südamerikanisches Kleinkamel"
+    ],
+    [
+      "VILLA",
+      "Freistehendes repräsentatives Wohnhaus"
+    ],
+    [
+      "VIOLE",
+      "Historisches Streichinstrument der Gambenfamilie"
+    ],
+    [
+      "VIRUS",
+      "Infektiöse Einheit ohne eigenen Stoffwechsel"
+    ],
+    [
+      "VISKOSE",
+      "Regenerierte Cellulosefaser"
+    ],
+    [
+      "VIVARIUM",
+      "Anlage zur Haltung lebender Tiere"
+    ],
+    [
+      "WACHOLDER",
+      "Nadelstrauch mit würzigen Beerenzapfen"
+    ],
+    [
+      "WACHTEL",
+      "Kleiner Hühnervogel"
+    ],
+    [
+      "WALROSS",
+      "Robbe mit langen Stoßzähnen"
+    ],
+    [
+      "WALZER",
+      "Paartanz im Dreivierteltakt"
+    ],
+    [
+      "WAPITI",
+      "Große nordamerikanische Hirschart"
+    ],
+    [
+      "WASABI",
+      "Japanische scharfe Würzpaste"
+    ],
+    [
+      "WEBER",
+      "Handwerker zur Herstellung von Gewebe"
+    ],
+    [
+      "WEIDE",
+      "Baumgattung mit Kätzchenblüten"
+    ],
+    [
+      "WELS",
+      "Großer Süßwasserfisch mit Barteln"
+    ],
+    [
+      "WERMUT",
+      "Bitteres aromatisches Kraut"
+    ],
+    [
+      "WIDDER",
+      "Männliches Schaf"
+    ],
+    [
+      "WIESEL",
+      "Kleiner schlanker Marder"
+    ],
+    [
+      "WISMUT",
+      "Metall mit Symbol Bi"
+    ],
+    [
+      "WODAN",
+      "Germanischer Gott auch Odin genannt"
+    ],
+    [
+      "WOLFRAM",
+      "Metall mit Symbol W"
+    ],
+    [
+      "WOMBAT",
+      "Grabendes australisches Beuteltier"
+    ],
+    [
+      "XENON",
+      "Edelgas mit Symbol Xe"
+    ],
+    [
+      "XYLEM",
+      "Wasserleitendes Pflanzengewebe"
+    ],
+    [
+      "YAK",
+      "Hochlandrind aus Zentralasien"
+    ],
+    [
+      "YAMS",
+      "Tropische essbare Knollenpflanze"
+    ],
+    [
+      "YTTRIUM",
+      "Metall mit Symbol Y"
+    ],
+    [
+      "ZANDER",
+      "Süßwasserraubfisch aus der Familie der Barsche"
+    ],
+    [
+      "ZEBU",
+      "Hausrind mit Schulterbuckel"
+    ],
+    [
+      "ZEOLITH",
+      "Mineral mit poröser Gerüststruktur"
+    ],
+    [
+      "ZIKADE",
+      "Insekt mit oft lautem Gesang"
+    ],
+    [
+      "ZINK",
+      "Metall mit Symbol Zn"
+    ],
+    [
+      "ZIRKON",
+      "Mineral aus Zirkoniumsilicat"
+    ],
+    [
+      "ZOBEL",
+      "Sibirischer Marder mit wertvollem Fell"
+    ],
+    [
+      "ZODIAK",
+      "Tierkreis"
+    ],
+    [
+      "ZOTTE",
+      "Fingerförmige Gewebeausstülpung"
+    ],
+    [
+      "ZYPRESSE",
+      "Immergrünes Nadelgehölz mit oft schlanker Krone"
     ]
   ]
 }
